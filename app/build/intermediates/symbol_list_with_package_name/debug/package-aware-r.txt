@@ -1720,6 +1720,7 @@ drawable loading
 drawable logo_circle
 drawable logo_main
 drawable logo_square
+drawable logo_square_two
 drawable mask
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1807,6 +1808,7 @@ id TOP_START
 id ThreeBounce
 id WanderingCubes
 id Wave
+id ac_type
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -1884,12 +1886,16 @@ id bounce
 id btnNegative
 id btnNeutral
 id btnPositive
+id btn_login
+id btn_signup
+id btn_signup_submit
 id button1
 id button2
 id buttonPanel
 id cache_measures
 id cancel_action
 id cancel_button
+id cell
 id center
 id center_horizontal
 id center_vertical
@@ -1946,6 +1952,7 @@ id easeIn
 id easeInOut
 id easeOut
 id edit_query
+id email
 id end
 id end_padder
 id enterAlways
@@ -1965,6 +1972,9 @@ id fixed
 id flip
 id floating
 id forever
+id fulladdress
+id fullname
+id gender
 id gf
 id ghost_view
 id ghost_view_holder
@@ -1986,6 +1996,7 @@ id ignore
 id ignoreRequest
 id image
 id imgIcon
+id img_layout
 id info
 id invisible
 id italic
@@ -1997,12 +2008,14 @@ id largeLabel
 id layout
 id layout1
 id layout2
+id layout3
 id left
 id line1
 id line3
 id linear
 id listMode
 id list_item
+id location
 id main
 id masked
 id match_parent
@@ -2057,6 +2070,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id password
 id password_toggle
 id path
 id pathRelative
@@ -2181,7 +2195,9 @@ id transition_transform
 id triangle
 id tv_tinted_spinner
 id txtContent
+id txtLoginTitle
 id txtTitle
+id txtTitlesignup
 id unchecked
 id uniform
 id unlabeled

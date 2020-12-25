@@ -7,10 +7,10 @@
     <color name="teal_700">#ff3d00</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="colorPrimary">#23C166</color>
-    <color name="colorPrimaryMain">#34A33C</color>
-    <color name="colorPrimaryDark">#1B5E20</color>
-    <color name="colorPrimaryDarkMain">#502a5e</color>
+    <color name="colorPrimary">#ff1744</color>
+    <color name="colorPrimaryMain">#e91e63</color>
+    <color name="colorPrimaryDark">#ff3d00</color>
+    <color name="colorPrimaryDarkMain">#ff7539</color>
     <color name="colorAccent">#FF4081</color>
     <color name="card_bg_color">#f6f6f6</color>
     <color name="card_bg_dark_color">#0e0e0e</color>
