@@ -1,0 +1,9 @@
+com/project/eevent/SignupActivity.java
+ com.project.eevent.SignupActivity
+com/project/eevent/SplashActivity.java
+ com.project.eevent.SplashActivity
+ com.project.eevent.SplashActivity$1
+com/project/eevent/BuildConfig.java
+ com.project.eevent.BuildConfig
+com/project/eevent/LoginActivity.java
+ com.project.eevent.LoginActivity
