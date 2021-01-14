@@ -22,6 +22,12 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
+import com.project.eevent.Admin.AdminMainActivity;
+import com.project.eevent.ConventionHall.ChMainActivity;
+import com.project.eevent.Customer.CusMainActivity;
+import com.project.eevent.EventDecorator.EdMainActivity;
+import com.project.eevent.FoodManagement.FmMainActivity;
+import com.project.eevent.Photographer.PhotographerMainActivity;
 import com.romainpiel.shimmer.Shimmer;
 import com.romainpiel.shimmer.ShimmerTextView;
 
@@ -114,7 +120,16 @@ public class LoginActivity extends AppCompatActivity {
                             case 2:
                                 etxtAccountType.setText(typeList[position]);
                                 break;
+                            case 3:
+                                etxtAccountType.setText(typeList[position]);
+                                break;
 
+                            case 4:
+                                etxtAccountType.setText(typeList[position]);
+                                break;
+                            case 5:
+                                etxtAccountType.setText(typeList[position]);
+                                break;
 
                         }
                     }
@@ -223,8 +238,8 @@ public class LoginActivity extends AppCompatActivity {
 
                                 //warningDialog();
 
-//                                Intent intent = new Intent(LoginActivity.this, AdminMainActivity.class);
-                                //                              startActivity(intent);
+                                Intent intent = new Intent(LoginActivity.this, AdminMainActivity.class);
+                                startActivity(intent);
 
 
                             } else if (myResponse.equals("customer")) {
@@ -253,11 +268,11 @@ public class LoginActivity extends AppCompatActivity {
 
                                 //warningDialog();
 
-                                //                     Intent intent = new Intent(LoginActivity.this, CustomerMainActivity.class);
-                                //                    startActivity(intent);
+                                Intent intent = new Intent(LoginActivity.this, CusMainActivity.class);
+                                startActivity(intent);
 
 
-                            } else if (myResponse.equalsIgnoreCase("service_provider")) {
+                            } else if (myResponse.equalsIgnoreCase("convention_hall")) {
                                 //Creating a shared preference
                                 sharedPreferences = LoginActivity.this.getSharedPreferences(Constant.SHARED_PREF_NAME, Context.MODE_PRIVATE);
 
@@ -283,8 +298,98 @@ public class LoginActivity extends AppCompatActivity {
 
                                 //warningDialog();
 
-                                //                    Intent intent = new Intent(LoginActivity.this, SpMainActivity.class);
-                                //                  startActivity(intent);
+                                Intent intent = new Intent(LoginActivity.this, ChMainActivity.class);
+                                startActivity(intent);
+
+
+                            } else if (myResponse.equalsIgnoreCase("event_decorator")) {
+                                //Creating a shared preference
+                                sharedPreferences = LoginActivity.this.getSharedPreferences(Constant.SHARED_PREF_NAME, Context.MODE_PRIVATE);
+
+                                //Creating editor to store values to shared preferences
+                                SharedPreferences.Editor editor = sharedPreferences.edit();
+
+                                //Adding values to editor
+                                editor.putString(Constant.AC_TYPE_SHARED_PREF, account_type);
+                                editor.putString(Constant.CELL_SHARED_PREF, userCell);
+                                editor.putString(Constant.PASSWORD_SHARED_PREF, password);
+
+
+                                //editor.putString(Config.NAME_SHARED_PREF, name);
+
+                                //Saving values to editor
+                                editor.apply();
+
+                                loading.dismiss();
+                                //Starting profile activity
+
+                                Toasty.success(LoginActivity.this, "Login Success!", Toast.LENGTH_SHORT, true).show();
+
+
+                                //warningDialog();
+
+                                Intent intent = new Intent(LoginActivity.this, EdMainActivity.class);
+                                startActivity(intent);
+
+
+                            } else if (myResponse.equalsIgnoreCase("food_management")) {
+                                //Creating a shared preference
+                                sharedPreferences = LoginActivity.this.getSharedPreferences(Constant.SHARED_PREF_NAME, Context.MODE_PRIVATE);
+
+                                //Creating editor to store values to shared preferences
+                                SharedPreferences.Editor editor = sharedPreferences.edit();
+
+                                //Adding values to editor
+                                editor.putString(Constant.AC_TYPE_SHARED_PREF, account_type);
+                                editor.putString(Constant.CELL_SHARED_PREF, userCell);
+                                editor.putString(Constant.PASSWORD_SHARED_PREF, password);
+
+
+                                //editor.putString(Config.NAME_SHARED_PREF, name);
+
+                                //Saving values to editor
+                                editor.apply();
+
+                                loading.dismiss();
+                                //Starting profile activity
+
+                                Toasty.success(LoginActivity.this, "Login Success!", Toast.LENGTH_SHORT, true).show();
+
+
+                                //warningDialog();
+
+                                Intent intent = new Intent(LoginActivity.this, FmMainActivity.class);
+                                startActivity(intent);
+
+
+                            } else if (myResponse.equalsIgnoreCase("photographer")) {
+                                //Creating a shared preference
+                                sharedPreferences = LoginActivity.this.getSharedPreferences(Constant.SHARED_PREF_NAME, Context.MODE_PRIVATE);
+
+                                //Creating editor to store values to shared preferences
+                                SharedPreferences.Editor editor = sharedPreferences.edit();
+
+                                //Adding values to editor
+                                editor.putString(Constant.AC_TYPE_SHARED_PREF, account_type);
+                                editor.putString(Constant.CELL_SHARED_PREF, userCell);
+                                editor.putString(Constant.PASSWORD_SHARED_PREF, password);
+
+
+                                //editor.putString(Config.NAME_SHARED_PREF, name);
+
+                                //Saving values to editor
+                                editor.apply();
+
+                                loading.dismiss();
+                                //Starting profile activity
+
+                                Toasty.success(LoginActivity.this, "Login Success!", Toast.LENGTH_SHORT, true).show();
+
+
+                                //warningDialog();
+
+                                Intent intent = new Intent(LoginActivity.this, PhotographerMainActivity.class);
+                                startActivity(intent);
 
 
                             } else {

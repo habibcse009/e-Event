@@ -143,7 +143,17 @@ public class SignupActivity extends AppCompatActivity {
                             case 1:
                                 etxtAccountType.setText(typeList[position]);
                                 break;
+                            case 2:
+                                etxtAccountType.setText(typeList[position]);
+                                break;
 
+                            case 3:
+                                etxtAccountType.setText(typeList[position]);
+                                break;
+
+                            case 4:
+                                etxtAccountType.setText(typeList[position]);
+                                break;
 
                         }
                     }

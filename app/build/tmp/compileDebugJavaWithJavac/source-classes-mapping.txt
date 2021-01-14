@@ -13,10 +13,20 @@ com/project/eevent/SignupActivity.java
  com.project.eevent.SignupActivity$5
  com.project.eevent.SignupActivity$6
  com.project.eevent.SignupActivity$7
+com/project/eevent/Customer/CusMainActivity.java
+ com.project.eevent.Customer.CusMainActivity
 com/project/eevent/remote/ApiInterface.java
  com.project.eevent.remote.ApiInterface
+com/project/eevent/Photographer/PhotographerMainActivity.java
+ com.project.eevent.Photographer.PhotographerMainActivity
 com/project/eevent/Constant.java
  com.project.eevent.Constant
+com/project/eevent/EventDecorator/EdMainActivity.java
+ com.project.eevent.EventDecorator.EdMainActivity
+com/project/eevent/Admin/AdminMainActivity.java
+ com.project.eevent.Admin.AdminMainActivity
+com/project/eevent/FoodManagement/FmMainActivity.java
+ com.project.eevent.FoodManagement.FmMainActivity
 com/project/eevent/SplashActivity.java
  com.project.eevent.SplashActivity
  com.project.eevent.SplashActivity$1
@@ -24,6 +34,8 @@ com/project/eevent/BuildConfig.java
  com.project.eevent.BuildConfig
 com/project/eevent/remote/ApiClient.java
  com.project.eevent.remote.ApiClient
+com/project/eevent/ConventionHall/ChMainActivity.java
+ com.project.eevent.ConventionHall.ChMainActivity
 com/project/eevent/LoginActivity.java
  com.project.eevent.LoginActivity
  com.project.eevent.LoginActivity$1

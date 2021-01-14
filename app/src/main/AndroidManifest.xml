@@ -15,7 +15,13 @@
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".SignupActivity"></activity>
+        <activity android:name=".Photographer.PhotographerMainActivity"></activity>
+        <activity android:name=".FoodManagement.FmMainActivity" />
+        <activity android:name=".EventDecorator.EdMainActivity" />
+        <activity android:name=".Customer.CusMainActivity" />
+        <activity android:name=".ConventionHall.ChMainActivity" />
+        <activity android:name=".Admin.AdminMainActivity" />
+        <activity android:name=".SignupActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".SplashActivity">
             <intent-filter>

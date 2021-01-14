@@ -2271,8 +2271,14 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_admin_main
+layout activity_ch_main
+layout activity_cus_main
+layout activity_ed_main
+layout activity_fm_main
 layout activity_image_select
 layout activity_login
+layout activity_photographer_main
 layout activity_signup
 layout activity_splash
 layout custom_dialog

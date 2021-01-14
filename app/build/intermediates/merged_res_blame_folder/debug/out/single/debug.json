@@ -80,6 +80,14 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\round_border.xml"
     },
     {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ed_main.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_ed_main.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_main.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_admin_main.xml"
+    },
+    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
@@ -102,6 +110,10 @@
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_card_bg_two.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\card_bg_two.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ch_main.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_ch_main.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgbtnonfocus.xml.flat",
@@ -248,6 +260,10 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\rounded_button.xml"
     },
     {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cus_main.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_cus_main.xml"
+    },
+    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_bg_three.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\ic_bg_three.xml"
     },
@@ -262,6 +278,10 @@
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_loading.jpg.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\loading.jpg"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photographer_main.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_photographer_main.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradiant.xml.flat",
@@ -290,6 +310,10 @@
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fm_main.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_fm_main.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_lock.xml.flat",
