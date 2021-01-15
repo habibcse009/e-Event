@@ -15,7 +15,14 @@
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Photographer.PhotographerMainActivity"></activity>
+        <activity android:name=".Admin.ViewUsers.FmListActivity"></activity>
+        <activity android:name=".Admin.ViewUsers.EdListActivity" />
+        <activity android:name=".Admin.ViewUsers.ChListActivity" />
+        <activity android:name=".Admin.ViewUsers.PhotographerListActivity" />
+        <activity android:name=".Admin.ViewUsers.CusListActivity" />
+        <activity android:name=".Admin.Profile.EditProfileAdminActivity" />
+        <activity android:name=".Admin.Profile.ProfileAdminActivity" />
+        <activity android:name=".Photographer.PhotographerMainActivity" />
         <activity android:name=".FoodManagement.FmMainActivity" />
         <activity android:name=".EventDecorator.EdMainActivity" />
         <activity android:name=".Customer.CusMainActivity" />

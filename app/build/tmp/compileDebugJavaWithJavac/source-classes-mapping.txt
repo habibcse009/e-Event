@@ -1,3 +1,5 @@
+com/project/eevent/Admin/ViewUsers/EdListActivity.java
+ com.project.eevent.Admin.ViewUsers.EdListActivity
 com/project/eevent/SignupActivity.java
  com.project.eevent.SignupActivity
  com.project.eevent.SignupActivity$1
@@ -21,12 +23,22 @@ com/project/eevent/Photographer/PhotographerMainActivity.java
  com.project.eevent.Photographer.PhotographerMainActivity
 com/project/eevent/Constant.java
  com.project.eevent.Constant
+com/project/eevent/Admin/Profile/ProfileAdminActivity.java
+ com.project.eevent.Admin.Profile.ProfileAdminActivity
+com/project/eevent/Admin/ViewUsers/ChListActivity.java
+ com.project.eevent.Admin.ViewUsers.ChListActivity
+com/project/eevent/Admin/ViewUsers/CusListActivity.java
+ com.project.eevent.Admin.ViewUsers.CusListActivity
 com/project/eevent/EventDecorator/EdMainActivity.java
  com.project.eevent.EventDecorator.EdMainActivity
 com/project/eevent/Admin/AdminMainActivity.java
  com.project.eevent.Admin.AdminMainActivity
+com/project/eevent/Admin/ViewUsers/PhotographerListActivity.java
+ com.project.eevent.Admin.ViewUsers.PhotographerListActivity
 com/project/eevent/FoodManagement/FmMainActivity.java
  com.project.eevent.FoodManagement.FmMainActivity
+com/project/eevent/Admin/ViewUsers/FmListActivity.java
+ com.project.eevent.Admin.ViewUsers.FmListActivity
 com/project/eevent/SplashActivity.java
  com.project.eevent.SplashActivity
  com.project.eevent.SplashActivity$1
@@ -36,6 +48,8 @@ com/project/eevent/remote/ApiClient.java
  com.project.eevent.remote.ApiClient
 com/project/eevent/ConventionHall/ChMainActivity.java
  com.project.eevent.ConventionHall.ChMainActivity
+com/project/eevent/Admin/Profile/EditProfileAdminActivity.java
+ com.project.eevent.Admin.Profile.EditProfileAdminActivity
 com/project/eevent/LoginActivity.java
  com.project.eevent.LoginActivity
  com.project.eevent.LoginActivity$1
