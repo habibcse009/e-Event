@@ -25,6 +25,9 @@ com/project/eevent/Constant.java
  com.project.eevent.Constant
 com/project/eevent/Admin/Profile/ProfileAdminActivity.java
  com.project.eevent.Admin.Profile.ProfileAdminActivity
+ com.project.eevent.Admin.Profile.ProfileAdminActivity$1
+ com.project.eevent.Admin.Profile.ProfileAdminActivity$2
+ com.project.eevent.Admin.Profile.ProfileAdminActivity$3
 com/project/eevent/Admin/ViewUsers/ChListActivity.java
  com.project.eevent.Admin.ViewUsers.ChListActivity
 com/project/eevent/Admin/ViewUsers/CusListActivity.java
@@ -33,6 +36,13 @@ com/project/eevent/EventDecorator/EdMainActivity.java
  com.project.eevent.EventDecorator.EdMainActivity
 com/project/eevent/Admin/AdminMainActivity.java
  com.project.eevent.Admin.AdminMainActivity
+ com.project.eevent.Admin.AdminMainActivity$1
+ com.project.eevent.Admin.AdminMainActivity$2
+ com.project.eevent.Admin.AdminMainActivity$3
+ com.project.eevent.Admin.AdminMainActivity$4
+ com.project.eevent.Admin.AdminMainActivity$5
+ com.project.eevent.Admin.AdminMainActivity$6
+ com.project.eevent.Admin.AdminMainActivity$7
 com/project/eevent/Admin/ViewUsers/PhotographerListActivity.java
  com.project.eevent.Admin.ViewUsers.PhotographerListActivity
 com/project/eevent/FoodManagement/FmMainActivity.java
@@ -50,6 +60,12 @@ com/project/eevent/ConventionHall/ChMainActivity.java
  com.project.eevent.ConventionHall.ChMainActivity
 com/project/eevent/Admin/Profile/EditProfileAdminActivity.java
  com.project.eevent.Admin.Profile.EditProfileAdminActivity
+ com.project.eevent.Admin.Profile.EditProfileAdminActivity$1
+ com.project.eevent.Admin.Profile.EditProfileAdminActivity$1$1
+ com.project.eevent.Admin.Profile.EditProfileAdminActivity$1$2
+ com.project.eevent.Admin.Profile.EditProfileAdminActivity$2
+ com.project.eevent.Admin.Profile.EditProfileAdminActivity$3
+ com.project.eevent.Admin.Profile.EditProfileAdminActivity$4
 com/project/eevent/LoginActivity.java
  com.project.eevent.LoginActivity
  com.project.eevent.LoginActivity$1
