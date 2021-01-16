@@ -24,6 +24,17 @@
         android:testOnly="true"
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.eevent.ContactUsActivity" />
+        <activity android:name="com.project.eevent.Photographer.Profile.EditProfilePhotographerActivity" />
+        <activity android:name="com.project.eevent.Photographer.Profile.ProfilePhotographerActivity" />
+        <activity android:name="com.project.eevent.FoodManagement.Profile.EditProfileFmActivity" />
+        <activity android:name="com.project.eevent.FoodManagement.Profile.ProfileFmActivity" />
+        <activity android:name="com.project.eevent.EventDecorator.Profile.EditProfileEdActivity" />
+        <activity android:name="com.project.eevent.EventDecorator.Profile.ProfileEdActivity" />
+        <activity android:name="com.project.eevent.ConventionHall.Profile.EditProfileChActivity" />
+        <activity android:name="com.project.eevent.ConventionHall.Profile.ProfileChActivity" />
+        <activity android:name="com.project.eevent.Customer.Profile.EditProfileCusActivity" />
+        <activity android:name="com.project.eevent.Customer.Profile.ProfileCusActivity" />
         <activity android:name="com.project.eevent.Admin.ViewUsers.FmListActivity" />
         <activity android:name="com.project.eevent.Admin.ViewUsers.EdListActivity" />
         <activity android:name="com.project.eevent.Admin.ViewUsers.ChListActivity" />

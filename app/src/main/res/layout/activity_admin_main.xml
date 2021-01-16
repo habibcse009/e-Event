@@ -146,7 +146,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_marginTop="10dp"
                                     android:gravity="center"
-                                    android:text="Conventional Halls"
+                                    android:text="Convention Halls"
                                     android:textColor="@color/colorAccent"
                                     android:textSize="18sp"
                                     android:textStyle="bold" />
