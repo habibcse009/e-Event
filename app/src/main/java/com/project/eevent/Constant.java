@@ -36,8 +36,8 @@ public class Constant {
     public static final String PROFILEADMN_UPDATE_URL = MAIN_URL + "/update_profileAdmn.php";
     public static final String DELETE_PRODUCT_URL = MAIN_URL + "/delete_product.php";
 
-    public static final String ADD_SHOP_INFO_URL = MAIN_URL+"/update_shop_info.php?cell=";
-    public static final String SHOP_INFO_URL = MAIN_URL+"/shop_info.php?cell=";
+    public static final String ADD_SHOP_INFO_URL = MAIN_URL + "/update_shop_info.php?cell=";
+    public static final String SHOP_INFO_URL = MAIN_URL + "/shop_info.php?cell=";
 
     public static final String RETAILERS_PROFILE_UPDATE_URL = MAIN_URL + "/retailer_profile_update.php";
 
@@ -48,12 +48,22 @@ public class Constant {
     public static final String ORDER_LIST_URL = MAIN_URL + "/order_list.php?cell=";
 
     public static final String REVIEW_LIST_URL = MAIN_URL + "/review_list.php?name=";
-    public static final String SHOP_LIST_URL = MAIN_URL+"/shop_list.php";
-    public static final String CUS_LIST_URL = MAIN_URL+"/cus_list.php";
-    public static final String DELETE_USER_URL = MAIN_URL+"/delete_cus.php";
+    public static final String SHOP_LIST_URL = MAIN_URL + "/shop_list.php";
+    public static final String CUS_LIST_URL = MAIN_URL + "/cus_list.php";
+    public static final String DELETE_USER_URL = MAIN_URL + "/delete_cus.php";
 
-    public static final String SP_LIST_URL = MAIN_URL+"/sp_list.php";
-    public static final String DELETE_SP_URL = MAIN_URL+"/delete_sp.php";
+    public static final String PHOTOGRAPHER_LIST_URL = MAIN_URL + "/photographer_list.php";
+    public static final String DELETE_PHOTOGRAPHER_URL = MAIN_URL + "/delete_photographer.php";
+    public static final String CH_LIST_URL = MAIN_URL + "/ch_list.php";
+    public static final String DELETE_CH_URL = MAIN_URL + "/delete_ch.php";
+    public static final String ED_LIST_URL = MAIN_URL + "/ed_list.php";
+    public static final String DELETE_ED_URL = MAIN_URL + "/delete_ed.php";
+    public static final String FM_LIST_URL = MAIN_URL + "/fm_list.php";
+    public static final String DELETE_FM_URL = MAIN_URL + "/delete_fm.php";
+
+
+    public static final String SP_LIST_URL = MAIN_URL + "/sp_list.php";
+    public static final String DELETE_SP_URL = MAIN_URL + "/delete_sp.php";
 
     public static final String NOTICE_LIST_URL = MAIN_URL + "/notice_list.php";
 
@@ -124,7 +134,7 @@ public class Constant {
     public static final String KEY_NAME = "name";
     public static final String KEY_OWNERNAME = "owner_name";
     public static final String KEY_SHOPLICENCE = "licence";
-   // public static final String KEY_ORDER_ID = "order_id";
+    // public static final String KEY_ORDER_ID = "order_id";
     public static final String KEY_PRODUCT_NAME = "product_name";
 
     public static final String KEY_CATEGORY = "category";
@@ -163,7 +173,7 @@ public class Constant {
 
 
     //We will use this to store the user cell number into shared preference
-   // public static final String SHARED_PREF_NAME = "com.app.accident.userlogin"; //pcakage name+ id
+    // public static final String SHARED_PREF_NAME = "com.app.accident.userlogin"; //pcakage name+ id
     public static final String SHARED_PREF_NAME = "com.habibproject.e_event.userlogin"; //pcakage name+ id
 
     //This would be used to store the cell of current logged in user
