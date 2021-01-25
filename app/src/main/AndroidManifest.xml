@@ -15,7 +15,13 @@
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ContactUsActivity"></activity>
+        <activity android:name=".Photographer.Product.ProductDescriptionPhotographerActivity"></activity>
+        <activity android:name=".Photographer.Product.OrderPhotographerActivity" />
+        <activity android:name=".Photographer.Order.OrderDetailsPhotographerActivity" />
+        <activity android:name=".Photographer.Order.OrderListPhotographerActivity" />
+        <activity android:name=".Photographer.Product.AddProductPhotographerActivity" />
+        <activity android:name=".Photographer.Product.AllProductPhotographerActivity" />
+        <activity android:name=".ContactUsActivity" />
         <activity android:name=".Photographer.Profile.EditProfilePhotographerActivity" />
         <activity android:name=".Photographer.Profile.ProfilePhotographerActivity" />
         <activity android:name=".FoodManagement.Profile.EditProfileFmActivity" />

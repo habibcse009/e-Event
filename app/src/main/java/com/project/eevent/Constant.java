@@ -26,6 +26,7 @@ public class Constant {
 
     public static final String PROFILESP_URL = MAIN_URL + "/profileSp.php?mobile=";
     public static final String PROFILECUS_URL = MAIN_URL + "/profileCus.php?mobile=";
+    public static final String PROFILE_PHOTOGRAPHER_URL = MAIN_URL + "/profilePhotographer.php?mobile=";
     public static final String PROFILECADMN_URL = MAIN_URL + "/profileAdmn.php?mobile=";
     public static final String GET_REVIEW_URL = MAIN_URL + "/get_review.php?id=";
 
@@ -33,8 +34,10 @@ public class Constant {
 
     public static final String PROFILESP_UPDATE_URL = MAIN_URL + "/update_profileSp.php";
     public static final String PROFILECUS_UPDATE_URL = MAIN_URL + "/update_profileCus.php";
+    public static final String PROFILE_PHOTOGRAPHER_UPDATE_URL = MAIN_URL + "/update_profilePhotographer.php";
     public static final String PROFILEADMN_UPDATE_URL = MAIN_URL + "/update_profileAdmn.php";
     public static final String DELETE_PRODUCT_URL = MAIN_URL + "/delete_product.php";
+    public static final String DELETE_PRODUCT_PHOTOGRAPHER_URL = MAIN_URL + "/delete_productPhotographer.php";
 
     public static final String ADD_SHOP_INFO_URL = MAIN_URL + "/update_shop_info.php?cell=";
     public static final String SHOP_INFO_URL = MAIN_URL + "/shop_info.php?cell=";
@@ -169,6 +172,8 @@ public class Constant {
     public static final String KEY_DESCRIPTION = "description";
     public static final String KEY_FARMER_CELL = "farmer_cell";
     public static final String KEY_SP_CELL = "sp_cell";
+    public static final String KEY_PHOTOGRAPHER_CELL = "photographer_cell";
+
     public static final String KEY_CUS_CELL = "cus_cell";
 
 
