@@ -22,7 +22,7 @@ public class Constant {
     public static final String ADD_REVIEW_URL = MAIN_URL + "/add_review.php";
 
     public static final String SIGNUP_URL = MAIN_URL + "/signup.php";
-    public static final String ORDER_SUBMIT_URL = MAIN_URL + "/order_submit.php";
+    public static final String ORDER_SUBMIT_URL = MAIN_URL + "/order_submitPhotographer.php";
 
     public static final String PROFILESP_URL = MAIN_URL + "/profileSp.php?mobile=";
     public static final String PROFILECUS_URL = MAIN_URL + "/profileCus.php?mobile=";
@@ -143,6 +143,7 @@ public class Constant {
     public static final String KEY_CATEGORY = "category";
     public static final String KEY_STOCK = "stock";
     public static final String KEY_QUANTITY = "quantity";
+    public static final String KEY_PROGRAM_DATE = "program_date";
     public static final String KEY_ADDRESS = "address";
     public static final String KEY_BKASHTEX = "bkash_tex";
 

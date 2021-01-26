@@ -144,23 +144,6 @@
                     android:textStyle="bold" />
 
                 <Button
-                    android:id="@+id/txt_view_reviewPhotographer"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_alignParentBottom="true"
-                    android:layout_marginLeft="40dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="40dp"
-                    android:layout_marginBottom="18dp"
-                    android:background="@drawable/bgbtnonfocus"
-                    android:gravity="center"
-                    android:padding="10dp"
-                    android:text="View Review"
-                    android:textColor="#ffffff"
-                    android:textSize="16dp"
-                    android:textStyle="bold" />
-
-                <Button
                     android:id="@+id/txt_deleteProductPhotographer"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -193,6 +176,23 @@
                     android:textColor="#ffffff"
                     android:textSize="16dp"
                     android:textStyle="bold" />
+                <Button
+                    android:id="@+id/txt_view_reviewPhotographer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="40dp"
+                    android:layout_marginBottom="18dp"
+                    android:background="@drawable/bgbtnonfocus"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="View Review"
+                    android:textColor="#ffffff"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
 
             </LinearLayout>
 

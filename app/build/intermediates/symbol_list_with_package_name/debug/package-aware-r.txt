@@ -1809,6 +1809,7 @@ drawable review
 drawable round_border
 drawable round_border_two
 drawable rounded_button
+drawable rounder_button_two
 drawable roundshapebtn
 drawable search_input_style
 drawable side_nav_bar
@@ -2054,11 +2055,13 @@ id end
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
+id etx_bkash_txtIDPhotographer
 id etxt_Photographer_categoryProduct
 id etxt_Photographer_descriptionProduct
 id etxt_Photographer_priceProduct
 id etxt_Photographer_product_name
 id etxt_Photographer_quantityProduct
+id etxt_full_addressPhotographer
 id etxt_search_user
 id exitUntilCollapsed
 id expand_activities_button
@@ -2282,6 +2285,13 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView10
+id textView2
+id textView21
+id textView3
+id textView7
+id textView8
+id textView9
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -2402,8 +2412,11 @@ id txt_namePhotographer
 id txt_orderPhotographer
 id txt_pricePhotographer
 id txt_product_namePhotographer
+id txt_product_pricePhotographer
+id txt_programDatePhotographer
 id txt_quantityPhotographer
 id txt_sizePhotographer
+id txt_submit_orderPhotographer
 id txt_viewAllProductsPhotographer
 id txt_view_reviewPhotographer
 id txteditNameAdmn

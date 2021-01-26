@@ -15,6 +15,7 @@ import com.project.eevent.Constant;
 import com.project.eevent.ContactUsActivity;
 import com.project.eevent.Customer.Profile.ProfileCusActivity;
 import com.project.eevent.LoginActivity;
+import com.project.eevent.Photographer.Product.AllProductPhotographerActivity;
 import com.project.eevent.R;
 import com.romainpiel.shimmer.Shimmer;
 import com.romainpiel.shimmer.ShimmerTextView;
@@ -109,10 +110,10 @@ public class CusMainActivity extends AppCompatActivity {
         cardPhotographerCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-              /*  Intent intent = new Intent(CusMainActivity.this, AllProductsActivity.class);
+                Intent intent = new Intent(CusMainActivity.this, AllProductPhotographerActivity.class);
                 intent.putExtra("type", "Customer");
                 startActivity(intent);
-*/
+
             }
         });
         cardEDCus.setOnClickListener(new View.OnClickListener() {

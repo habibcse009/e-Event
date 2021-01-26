@@ -228,6 +228,10 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounder_button_two.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\rounder_button_two.xml"
+    },
+    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fish.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_fish.xml"
     },

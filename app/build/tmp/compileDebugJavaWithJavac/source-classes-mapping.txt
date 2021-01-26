@@ -25,16 +25,16 @@ com/project/eevent/Customer/CusMainActivity.java
  com.project.eevent.Customer.CusMainActivity$6
  com.project.eevent.Customer.CusMainActivity$7
  com.project.eevent.Customer.CusMainActivity$8
-com/project/eevent/LoginActivity.java
- com.project.eevent.LoginActivity
- com.project.eevent.LoginActivity$1
- com.project.eevent.LoginActivity$1$1
- com.project.eevent.LoginActivity$1$2
- com.project.eevent.LoginActivity$2
- com.project.eevent.LoginActivity$3
- com.project.eevent.LoginActivity$4
- com.project.eevent.LoginActivity$5
- com.project.eevent.LoginActivity$6
+com/project/eevent/Photographer/Product/AddProductPhotographerActivity.java
+ com.project.eevent.Photographer.Product.AddProductPhotographerActivity
+ com.project.eevent.Photographer.Product.AddProductPhotographerActivity$1
+ com.project.eevent.Photographer.Product.AddProductPhotographerActivity$1$1
+ com.project.eevent.Photographer.Product.AddProductPhotographerActivity$1$2
+ com.project.eevent.Photographer.Product.AddProductPhotographerActivity$2
+ com.project.eevent.Photographer.Product.AddProductPhotographerActivity$3
+ com.project.eevent.Photographer.Product.AddProductPhotographerActivity$3$1
+ com.project.eevent.Photographer.Product.AddProductPhotographerActivity$3$2
+ com.project.eevent.Photographer.Product.AddProductPhotographerActivity$4
 com/project/eevent/Photographer/Order/OrderDetailsPhotographerActivity.java
  com.project.eevent.Photographer.Order.OrderDetailsPhotographerActivity
 com/project/eevent/Admin/Profile/ProfileAdminActivity.java
@@ -109,8 +109,8 @@ com/project/eevent/EventDecorator/Profile/ProfileEdActivity.java
  com.project.eevent.EventDecorator.Profile.ProfileEdActivity
 com/project/eevent/ConventionHall/ChMainActivity.java
  com.project.eevent.ConventionHall.ChMainActivity
-com/project/eevent/Photographer/Product/OrderPhotographerActivity.java
- com.project.eevent.Photographer.Product.OrderPhotographerActivity
+com/project/eevent/EventDecorator/Profile/EditProfileEdActivity.java
+ com.project.eevent.EventDecorator.Profile.EditProfileEdActivity
 com/project/eevent/Admin/Profile/EditProfileAdminActivity.java
  com.project.eevent.Admin.Profile.EditProfileAdminActivity
  com.project.eevent.Admin.Profile.EditProfileAdminActivity$1
@@ -138,8 +138,13 @@ com/project/eevent/SignupActivity.java
  com.project.eevent.SignupActivity$7
 com/project/eevent/remote/ApiInterface.java
  com.project.eevent.remote.ApiInterface
-com/project/eevent/EventDecorator/Profile/EditProfileEdActivity.java
- com.project.eevent.EventDecorator.Profile.EditProfileEdActivity
+com/project/eevent/Photographer/PhotographerMainActivity.java
+ com.project.eevent.Photographer.PhotographerMainActivity
+ com.project.eevent.Photographer.PhotographerMainActivity$1
+ com.project.eevent.Photographer.PhotographerMainActivity$2
+ com.project.eevent.Photographer.PhotographerMainActivity$3
+ com.project.eevent.Photographer.PhotographerMainActivity$4
+ com.project.eevent.Photographer.PhotographerMainActivity$5
 com/project/eevent/Constant.java
  com.project.eevent.Constant
 com/project/eevent/Photographer/Product/adapter/ProductAdapterPhotographer.java
@@ -207,6 +212,20 @@ com/project/eevent/Admin/AdminMainActivity.java
  com.project.eevent.Admin.AdminMainActivity$5
  com.project.eevent.Admin.AdminMainActivity$6
  com.project.eevent.Admin.AdminMainActivity$7
+com/project/eevent/LoginActivity.java
+ com.project.eevent.LoginActivity
+ com.project.eevent.LoginActivity$1
+ com.project.eevent.LoginActivity$1$1
+ com.project.eevent.LoginActivity$1$2
+ com.project.eevent.LoginActivity$2
+ com.project.eevent.LoginActivity$3
+ com.project.eevent.LoginActivity$4
+ com.project.eevent.LoginActivity$5
+ com.project.eevent.LoginActivity$6
+com/project/eevent/BuildConfig.java
+ com.project.eevent.BuildConfig
+com/project/eevent/remote/ApiClient.java
+ com.project.eevent.remote.ApiClient
 com/project/eevent/Photographer/Product/ProductDescriptionPhotographerActivity.java
  com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity
  com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity$1
@@ -217,24 +236,11 @@ com/project/eevent/Photographer/Product/ProductDescriptionPhotographerActivity.j
  com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity$4
  com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity$5
  com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity$6
-com/project/eevent/BuildConfig.java
- com.project.eevent.BuildConfig
-com/project/eevent/remote/ApiClient.java
- com.project.eevent.remote.ApiClient
-com/project/eevent/Photographer/Product/AddProductPhotographerActivity.java
- com.project.eevent.Photographer.Product.AddProductPhotographerActivity
- com.project.eevent.Photographer.Product.AddProductPhotographerActivity$1
- com.project.eevent.Photographer.Product.AddProductPhotographerActivity$1$1
- com.project.eevent.Photographer.Product.AddProductPhotographerActivity$1$2
- com.project.eevent.Photographer.Product.AddProductPhotographerActivity$2
- com.project.eevent.Photographer.Product.AddProductPhotographerActivity$3
- com.project.eevent.Photographer.Product.AddProductPhotographerActivity$3$1
- com.project.eevent.Photographer.Product.AddProductPhotographerActivity$3$2
- com.project.eevent.Photographer.Product.AddProductPhotographerActivity$4
-com/project/eevent/Photographer/PhotographerMainActivity.java
- com.project.eevent.Photographer.PhotographerMainActivity
- com.project.eevent.Photographer.PhotographerMainActivity$1
- com.project.eevent.Photographer.PhotographerMainActivity$2
- com.project.eevent.Photographer.PhotographerMainActivity$3
- com.project.eevent.Photographer.PhotographerMainActivity$4
- com.project.eevent.Photographer.PhotographerMainActivity$5
+com/project/eevent/Photographer/Product/OrderPhotographerActivity.java
+ com.project.eevent.Photographer.Product.OrderPhotographerActivity
+ com.project.eevent.Photographer.Product.OrderPhotographerActivity$1
+ com.project.eevent.Photographer.Product.OrderPhotographerActivity$2
+ com.project.eevent.Photographer.Product.OrderPhotographerActivity$3
+ com.project.eevent.Photographer.Product.OrderPhotographerActivity$4
+ com.project.eevent.Photographer.Product.OrderPhotographerActivity$5
+ com.project.eevent.Photographer.Product.OrderPhotographerActivity$6
