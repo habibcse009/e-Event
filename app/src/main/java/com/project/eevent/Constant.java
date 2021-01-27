@@ -45,6 +45,7 @@ public class Constant {
     public static final String RETAILERS_PROFILE_UPDATE_URL = MAIN_URL + "/retailer_profile_update.php";
 
     public static final String UPDATE_ORDER_URL = MAIN_URL + "/update_order.php";
+    public static final String UPDATE_ORDER_PHOTOGRAPHER_URL = MAIN_URL + "/update_orderPhotographer.php";
 
     public static final String PUBLISH_NOTICE_URL = MAIN_URL + "/publish_notice.php";
 
