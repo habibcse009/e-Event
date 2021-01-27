@@ -71,7 +71,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="Program Date"
+                android:text="Program Date(Double Click here)"
 
                 android:textColor="#FFF" />
 
@@ -87,7 +87,6 @@
                 android:textColor="#FFF"
                 android:textColorHint="#FFF"
                 android:textSize="16dp" />
-
 
 
             <TextView
@@ -138,7 +137,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="3dp"
-                android:text="bKash TrxID (Have to pay 40% Advance)"
+                android:text="bKash TrxID (Have to pay 40% Advance)\nPlease check the number in description"
 
                 android:textColor="@color/white" />
 

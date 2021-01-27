@@ -1937,6 +1937,7 @@ id btnEditProfilePhotographer
 id btnNegative
 id btnNeutral
 id btnPositive
+id btnSearchOrderPhotographer
 id btnSearch_user
 id btn_Photographer_imageAddProduct
 id btn_call
@@ -2062,6 +2063,7 @@ id etxt_Photographer_priceProduct
 id etxt_Photographer_product_name
 id etxt_Photographer_quantityProduct
 id etxt_full_addressPhotographer
+id etxt_searchOrderPhotographer
 id etxt_search_user
 id exitUntilCollapsed
 id expand_activities_button
@@ -2126,6 +2128,7 @@ id line1
 id line3
 id linear
 id listMode
+id listView
 id listView_user
 id list_icon
 id list_item
@@ -2365,6 +2368,7 @@ id txtUsernameED
 id txtUsernameFM
 id txtUsernamePhotographer
 id txt_Photographer_submitAddProduct
+id txt_ProgramDate
 id txt_categoryPhotographer
 id txt_deleteProductPhotographer
 id txt_descriptionPhotographer
@@ -2408,14 +2412,17 @@ id txt_editusernameED
 id txt_editusernameFM
 id txt_editusernamePhotographer
 id txt_message
+id txt_name
 id txt_namePhotographer
 id txt_orderPhotographer
+id txt_price
 id txt_pricePhotographer
 id txt_product_namePhotographer
 id txt_product_pricePhotographer
 id txt_programDatePhotographer
 id txt_quantityPhotographer
 id txt_sizePhotographer
+id txt_status
 id txt_submit_orderPhotographer
 id txt_viewAllProductsPhotographer
 id txt_view_reviewPhotographer
@@ -2605,6 +2612,7 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout order_list_item_photographer
 layout photography_list_item
 layout row_item_photographer
 layout select_dialog_item_material

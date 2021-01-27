@@ -75,6 +75,7 @@ public class Constant {
 
 
     public static final String SP_ORDER_LIST_URL = MAIN_URL + "/sp_order_list.php?cell=";
+    public static final String PHOTOGRAPHER_ORDER_LIST_URL = MAIN_URL + "/Photographer_order_list.php?cell=";
 
 
     public static final String USER_PROFILE_URL = MAIN_URL + "/android/user_profile.php?cell=";

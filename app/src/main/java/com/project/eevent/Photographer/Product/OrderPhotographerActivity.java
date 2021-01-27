@@ -26,6 +26,7 @@ import com.android.volley.toolbox.Volley;
 import com.project.eevent.Constant;
 import com.project.eevent.Customer.CusMainActivity;
 import com.project.eevent.R;
+import com.project.eevent.SignupActivity;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -263,6 +264,13 @@ public class OrderPhotographerActivity extends AppCompatActivity {
                             startActivity(intent);
 
                         }
+                        else if (myResponse.equalsIgnoreCase(Constant.USER_EXISTS)) {
+
+                            Toasty.error(OrderPhotographerActivity.this, "Program date already booked!\nPlease select another date.", Toast.LENGTH_SHORT).show();
+                            loading.dismiss();
+
+                        }
+
 
                         //If we are getting success from server
                         if (myResponse.equals("failure")) {
