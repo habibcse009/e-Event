@@ -1698,6 +1698,7 @@ drawable ic_bg_one
 drawable ic_bg_three
 drawable ic_bg_two
 drawable ic_call
+drawable ic_call_red
 drawable ic_camera
 drawable ic_camera_operator
 drawable ic_ch
@@ -1937,6 +1938,9 @@ id btnEditProfilePhotographer
 id btnNegative
 id btnNeutral
 id btnPositive
+id btnSearchOrderOrderED
+id btnSearchOrderOrderFM
+id btnSearchOrderOrderPhotographer
 id btnSearchOrderPhotographer
 id btnSearch_user
 id btn_Photographer_imageAddProduct
@@ -1988,6 +1992,10 @@ id card_viewCH
 id card_viewChAdmn
 id card_viewED
 id card_viewFM
+id card_viewOrder_CH
+id card_viewOrder_ED
+id card_viewOrder_FM
+id card_viewOrder_Photographer
 id card_viewPhotographer
 id card_viewProductCH
 id card_viewProductED
@@ -2063,6 +2071,9 @@ id etxt_Photographer_priceProduct
 id etxt_Photographer_product_name
 id etxt_Photographer_quantityProduct
 id etxt_full_addressPhotographer
+id etxt_searchOrderOrderED
+id etxt_searchOrderOrderFM
+id etxt_searchOrderOrderPhotographer
 id etxt_searchOrderPhotographer
 id etxt_search_user
 id exitUntilCollapsed
@@ -2129,6 +2140,9 @@ id line3
 id linear
 id listMode
 id listView
+id listViewOrderED
+id listViewOrderFM
+id listViewOrderOrderPhotographer
 id listView_user
 id list_icon
 id list_item
@@ -2535,6 +2549,10 @@ layout activity_ch_main
 layout activity_contact_us
 layout activity_cus_list
 layout activity_cus_main
+layout activity_cus_order_list_ch
+layout activity_cus_order_list_ed
+layout activity_cus_order_list_fm
+layout activity_cus_order_list_photographer
 layout activity_ed_list
 layout activity_ed_main
 layout activity_edit_profile_admin
@@ -2547,6 +2565,7 @@ layout activity_fm_list
 layout activity_fm_main
 layout activity_image_select
 layout activity_login
+layout activity_main_order_list
 layout activity_order_details_photographer
 layout activity_order_list_photographer
 layout activity_order_photographer

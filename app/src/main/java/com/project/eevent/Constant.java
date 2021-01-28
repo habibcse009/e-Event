@@ -50,6 +50,7 @@ public class Constant {
     public static final String PUBLISH_NOTICE_URL = MAIN_URL + "/publish_notice.php";
 
     public static final String ORDER_LIST_URL = MAIN_URL + "/order_list.php?cell=";
+    public static final String ORDER_LIST_URL_PHOTOGRAPHER = MAIN_URL + "/order_listPhotographer.php?cell=";
 
     public static final String REVIEW_LIST_URL = MAIN_URL + "/review_list.php?name=";
     public static final String SHOP_LIST_URL = MAIN_URL + "/shop_list.php";

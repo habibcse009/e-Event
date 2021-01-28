@@ -24,6 +24,11 @@
         android:testOnly="true"
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListEdActivity" />
+        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListFmActivity" />
+        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListChActivity" />
+        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListPhotographerActivity" />
+        <activity android:name="com.project.eevent.Customer.Orders.MainOrderListActivity" />
         <activity android:name="com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity" />
         <activity android:name="com.project.eevent.Photographer.Product.OrderPhotographerActivity" />
         <activity android:name="com.project.eevent.Photographer.Order.OrderDetailsPhotographerActivity" />

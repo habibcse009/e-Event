@@ -13,6 +13,7 @@ import android.widget.Toast;
 
 import com.project.eevent.Constant;
 import com.project.eevent.ContactUsActivity;
+import com.project.eevent.Customer.Orders.MainOrderListActivity;
 import com.project.eevent.Customer.Profile.ProfileCusActivity;
 import com.project.eevent.LoginActivity;
 import com.project.eevent.Photographer.Product.AllProductPhotographerActivity;
@@ -92,8 +93,8 @@ public class CusMainActivity extends AppCompatActivity {
         cardOrdersCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //   Intent intent = new Intent(CusMainActivity.this, OrderListCusActivity.class);
-                //   startActivity(intent);
+                Intent intent = new Intent(CusMainActivity.this, MainOrderListActivity.class);
+                startActivity(intent);
 
             }
         });
