@@ -11,6 +11,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+import com.project.eevent.AboutUsActivity;
 import com.project.eevent.Constant;
 import com.project.eevent.ContactUsActivity;
 import com.project.eevent.Customer.Orders.MainOrderListActivity;
@@ -83,7 +84,7 @@ public class CusMainActivity extends AppCompatActivity {
         cardContactUs.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(CusMainActivity.this, ContactUsActivity.class);
+                Intent intent = new Intent(CusMainActivity.this, AboutUsActivity.class);
                 startActivity(intent);
 
             }

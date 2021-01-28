@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">eEvent</string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d eEvent</string>
+
 </resources>

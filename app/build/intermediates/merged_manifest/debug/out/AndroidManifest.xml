@@ -24,6 +24,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.eevent.AboutUsActivity" />
         <activity android:name="com.project.eevent.Customer.Orders.CusOrderListEdActivity" />
         <activity android:name="com.project.eevent.Customer.Orders.CusOrderListFmActivity" />
         <activity android:name="com.project.eevent.Customer.Orders.CusOrderListChActivity" />

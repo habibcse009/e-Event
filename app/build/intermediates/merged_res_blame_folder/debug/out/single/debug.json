@@ -4,12 +4,12 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_contact_us_two.xml"
     },
     {
-        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_cus.xml.flat",
-        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_profile_cus.xml"
-    },
-    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item_photographer.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\row_item_photographer.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_cus.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_profile_cus.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_list_photographer.xml.flat",
@@ -68,12 +68,12 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_ch_list.xml"
     },
     {
-        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round_border.xml.flat",
-        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\round_border.xml"
-    },
-    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_create_notice.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\ic_create_notice.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round_border.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\round_border.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile_fm.xml.flat",
@@ -168,6 +168,10 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\ic_add.xml"
     },
     {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about_icon_copy_right.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\about_icon_copy_right.xml"
+    },
+    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
@@ -184,12 +188,12 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_ed_profile.xml"
     },
     {
-        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ph_order.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_ph_order.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -384,12 +388,12 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_edit_profile_cus.xml"
     },
     {
-        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photographer_profile.xml.flat",
-        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_photographer_profile.xml"
-    },
-    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_product_photographer.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_add_product_photographer.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photographer_profile.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_photographer_profile.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nodatafound.jpg.flat",
@@ -402,6 +406,10 @@
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_preloader.gif.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\preloader.gif"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_about_us.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_fm_list_item.xml.flat",
@@ -468,24 +476,24 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\ic_payments.png"
     },
     {
-        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_ch_list_item.xml.flat",
-        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\ch_list_item.xml"
-    },
-    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cus_order_list_photographer.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_cus_order_list_photographer.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_ch_list_item.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\ch_list_item.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_one.png.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\background_one.png"
     },
     {
-        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_chat.xml.flat",
-        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\ic_chat.xml"
-    },
-    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_six.png.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\background_six.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_chat.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\ic_chat.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_help.xml.flat",

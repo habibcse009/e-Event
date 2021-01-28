@@ -15,7 +15,8 @@
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Customer.Orders.CusOrderListEdActivity"></activity>
+        <activity android:name=".AboutUsActivity"></activity>
+        <activity android:name=".Customer.Orders.CusOrderListEdActivity" />
         <activity android:name=".Customer.Orders.CusOrderListFmActivity" />
         <activity android:name=".Customer.Orders.CusOrderListChActivity" />
         <activity android:name=".Customer.Orders.CusOrderListPhotographerActivity" />
