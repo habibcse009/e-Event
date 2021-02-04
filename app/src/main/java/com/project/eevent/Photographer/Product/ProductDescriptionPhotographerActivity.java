@@ -99,7 +99,8 @@ public class ProductDescriptionPhotographerActivity extends AppCompatActivity {
         txtOrder.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(ProductDescriptionPhotographerActivity.this, OrderPhotographerActivity.class);
+                //egula comment hobe na
+           /*     Intent intent = new Intent(ProductDescriptionPhotographerActivity.this, OrderPhotographerActivity.class);
                 intent.putExtra("name", name);
                 intent.putExtra("price", price);
                 intent.putExtra("category", category);
@@ -108,7 +109,7 @@ public class ProductDescriptionPhotographerActivity extends AppCompatActivity {
                 intent.putExtra("id", id);
 
                 startActivity(intent);
-
+*/
             }
         });
 
