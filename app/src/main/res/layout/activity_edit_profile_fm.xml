@@ -237,7 +237,7 @@
                             android:layout_weight="1"
                             android:background="@drawable/round_border"
                             android:hint="Full Address"
-                            android:inputType="phone"
+                            android:inputType="text"
                             android:padding="16dp"
                             android:textColor="#123"
                             android:textColorHint="#123"

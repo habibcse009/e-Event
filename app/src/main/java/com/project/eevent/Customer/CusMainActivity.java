@@ -94,8 +94,8 @@ public class CusMainActivity extends AppCompatActivity {
         cardOrdersCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-           //     Intent intent = new Intent(CusMainActivity.this, MainOrderListActivity.class);
-             //   startActivity(intent);
+                Intent intent = new Intent(CusMainActivity.this, MainOrderListActivity.class);
+                startActivity(intent);
 
             }
         });

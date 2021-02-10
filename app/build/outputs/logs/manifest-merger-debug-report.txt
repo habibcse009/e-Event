@@ -55,10 +55,10 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\habib\.gradle\caches
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\06bc4641de51b04d4df94808d6e05292\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.21] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\fc32a78acae10820687f1a35b628b4f2\jetified-android-gif-drawable-1.2.21\AndroidManifest.xml:2:1-9:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\fc810e6524b0417884f22eea64b8e3c7\jetified-android-gif-drawable-1.2.22\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.medyo:android-about-page:1.2.5] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\8e5f127f61d1faa75073a0d6b0a24d34\jetified-android-about-page-1.2.5\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\1c583e60ecb4635ebefd0114274c7498\jetified-relinker-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\518f214b95bbc940a2881aeee1d46b0c\jetified-relinker-1.4.1\AndroidManifest.xml:2:1-7:12
 INJECTED from H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:2:1-69:12
 INJECTED from H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:2:1-69:12
 INJECTED from H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:2:1-69:12
@@ -412,14 +412,14 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\habib\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\06bc4641de51b04d4df94808d6e05292\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.21] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\fc32a78acae10820687f1a35b628b4f2\jetified-android-gif-drawable-1.2.21\AndroidManifest.xml:5:5-7:41
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.21] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\fc32a78acae10820687f1a35b628b4f2\jetified-android-gif-drawable-1.2.21\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\fc810e6524b0417884f22eea64b8e3c7\jetified-android-gif-drawable-1.2.22\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\fc810e6524b0417884f22eea64b8e3c7\jetified-android-gif-drawable-1.2.22\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.medyo:android-about-page:1.2.5] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\8e5f127f61d1faa75073a0d6b0a24d34\jetified-android-about-page-1.2.5\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.medyo:android-about-page:1.2.5] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\8e5f127f61d1faa75073a0d6b0a24d34\jetified-android-about-page-1.2.5\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\1c583e60ecb4635ebefd0114274c7498\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
-MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\1c583e60ecb4635ebefd0114274c7498\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\518f214b95bbc940a2881aeee1d46b0c\jetified-relinker-1.4.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\518f214b95bbc940a2881aeee1d46b0c\jetified-relinker-1.4.1\AndroidManifest.xml:5:5-43
 INJECTED from H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml
 INJECTED from H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

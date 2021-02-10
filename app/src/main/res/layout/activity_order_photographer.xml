@@ -71,7 +71,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="Program Date(Double Click here)"
+                android:text="Program Date (Book your date here)"
 
                 android:textColor="#FFF" />
 
@@ -81,6 +81,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
                 android:background="@drawable/round_border"
+                android:focusable="false"
                 android:hint="Program Date"
                 android:inputType="datetime"
                 android:padding="16dp"
