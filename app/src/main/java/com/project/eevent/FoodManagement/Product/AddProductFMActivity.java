@@ -1,15 +1,5 @@
 package com.project.eevent.FoodManagement.Product;
 
-import androidx.appcompat.app.AppCompatActivity;
-import es.dmoral.toasty.Toasty;
-import in.mayanknagwanshi.imagepicker.ImageSelectActivity;
-import okhttp3.MediaType;
-import okhttp3.MultipartBody;
-import okhttp3.RequestBody;
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
-
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -35,6 +25,16 @@ import com.project.eevent.remote.ApiInterface;
 
 import java.io.File;
 
+import androidx.appcompat.app.AppCompatActivity;
+import es.dmoral.toasty.Toasty;
+import in.mayanknagwanshi.imagepicker.ImageSelectActivity;
+import okhttp3.MediaType;
+import okhttp3.MultipartBody;
+import okhttp3.RequestBody;
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
+
 public class AddProductFMActivity extends AppCompatActivity {
     EditText etxtProductNameFM, etxtQuantityFM, etxtCategoryFM, etxtPriceFMFM, etxtDescriptionFM;
     Button txtChooseImage, txtSubmit;
@@ -42,12 +42,13 @@ public class AddProductFMActivity extends AppCompatActivity {
     String mediaPath, product_name, product_quantity, product_category, product_description, product_price, FMCell;
     ProgressDialog progressDialog;
     SharedPreferences sharedPreferences;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_product_f_m);
 
-        getSupportActionBar().setTitle("Add Product");
+        getSupportActionBar().setTitle("Add Package");
         getSupportActionBar().setHomeButtonEnabled(true); //for back button
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);//for back button
 

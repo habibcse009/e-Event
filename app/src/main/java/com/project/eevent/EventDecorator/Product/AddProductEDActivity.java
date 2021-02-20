@@ -48,7 +48,7 @@ public class AddProductEDActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_product_e_d);
 
-        getSupportActionBar().setTitle("Add Product");
+        getSupportActionBar().setTitle("Add Package");
         getSupportActionBar().setHomeButtonEnabled(true); //for back button
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);//for back button
 

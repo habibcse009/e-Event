@@ -11,24 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211cb833-034d-480f-8204-9764ec0e5341" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/AddProductEDActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/OrderEDActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/ProductDescriptionEDActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/adapter/ProductAdapterED.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/model/ProductED.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/model/ProductUploadED.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/AddProductFMActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/OrderFMActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/ProductDescriptionFMActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/adapter/ProductAdapterFM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/model/ProductFM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/model/ProductUploadFM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_product_e_d.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_product_f_m.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_e_d.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_f_m.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_product_description_e_d.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_product_description_f_m.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
@@ -39,23 +21,16 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/project/eevent/LoginActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/project/eevent/LoginActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/project/eevent/SignupActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/project/eevent/SignupActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/project/eevent/SplashActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/project/eevent/SplashActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/project/eevent/LoginActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/project/eevent/LoginActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/project/eevent/SignupActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/project/eevent/SignupActivity.dex" afterDir="false" />
@@ -63,19 +38,15 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/EdMainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/EdMainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Order/OrderDetailsEDActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Order/OrderDetailsEDActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Order/OrderListEDActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Order/OrderListEDActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/FmMainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/FmMainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Order/OrderDetailsFMActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Order/OrderDetailsFMActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Order/OrderListFMActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Order/OrderListFMActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Product/AddProductCHActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Product/AddProductCHActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/AddProductEDActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/AddProductEDActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/AllProductEDActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/AllProductEDActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/AddProductFMActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/AddProductFMActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/AllProductFMActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/AllProductFMActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/remote/ApiInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/remote/ApiInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_product_c_h.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_product_c_h.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_details_e_d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_details_e_d.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_details_f_m.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_details_f_m.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_all_product_e_d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_all_product_e_d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_all_product_f_m.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_all_product_f_m.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -406,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613851104332</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add product ed and fm added">
+      <created>1613854439869</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1613854439869</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -431,7 +409,8 @@
     <MESSAGE value="Order confirmation convention hall" />
     <MESSAGE value="Order list cus convention hall" />
     <MESSAGE value="Order list cus ed and fm added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Order list cus ed and fm added" />
+    <MESSAGE value="add product ed and fm added" />
+    <option name="LAST_COMMIT_MESSAGE" value="add product ed and fm added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613852047450">
@@ -446,10 +425,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1613827524869" />
-    <state x="341" y="0" key="CommitChangelistDialog2" timestamp="1613851098472">
+    <state x="341" y="0" key="CommitChangelistDialog2" timestamp="1613854424595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="341" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1613851098472" />
+    <state x="341" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1613854424595" />
     <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1610993738981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -482,9 +461,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1613853351594" />
-    <state width="496" height="72" key="javadoc.popup.new" timestamp="1613853000082">
+    <state width="496" height="72" key="javadoc.popup.new" timestamp="1613855026154">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="496" height="72" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1613853000082" />
+    <state width="496" height="72" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1613855026154" />
   </component>
 </project>

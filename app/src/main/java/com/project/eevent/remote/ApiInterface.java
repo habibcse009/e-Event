@@ -111,7 +111,7 @@ public interface ApiInterface {
 
    //for live data search ED
     @GET("productED.php")
-    Call<List<ProductCH>> getProductED(
+    Call<List<ProductED>> getProductED(
             @Query("item_type") String item_type,
             @Query("key") String keyword,
             @Query("cell") String cell
