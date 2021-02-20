@@ -408,3 +408,7 @@ com/project/eevent/BuildConfig.java
  com.project.eevent.BuildConfig
 com/project/eevent/Customer/Orders/CusOrderListChActivity.java
  com.project.eevent.Customer.Orders.CusOrderListChActivity
+ com.project.eevent.Customer.Orders.CusOrderListChActivity$1
+ com.project.eevent.Customer.Orders.CusOrderListChActivity$2
+ com.project.eevent.Customer.Orders.CusOrderListChActivity$3
+ com.project.eevent.Customer.Orders.CusOrderListChActivity$4

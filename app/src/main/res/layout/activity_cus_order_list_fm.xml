@@ -12,7 +12,7 @@
         android:orientation="horizontal">
 
         <EditText
-            android:id="@+id/etxt_searchOrderOrderFM"
+            android:id="@+id/etxt_searchOrderOrderFM_Cus"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
@@ -23,7 +23,7 @@
             android:textColorHint="@color/colorPrimary" />
 
         <Button
-            android:id="@+id/btnSearchOrderOrderFM"
+            android:id="@+id/btnSearchOrderOrderFM_Cus"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
@@ -37,7 +37,7 @@
 
     <ListView
 
-        android:id="@+id/listViewOrderFM"
+        android:id="@+id/listViewOrderFM_Cus"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginLeft="16dp"

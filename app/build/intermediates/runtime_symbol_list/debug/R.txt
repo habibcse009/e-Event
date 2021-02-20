@@ -1990,8 +1990,8 @@ int id btnSearchOrderCH 0x7f080079
 int id btnSearchOrderCH_Cus 0x7f08007a
 int id btnSearchOrderED 0x7f08007b
 int id btnSearchOrderFM 0x7f08007c
-int id btnSearchOrderOrderED 0x7f08007d
-int id btnSearchOrderOrderFM 0x7f08007e
+int id btnSearchOrderOrderED_Cus 0x7f08007d
+int id btnSearchOrderOrderFM_Cus 0x7f08007e
 int id btnSearchOrderOrderPhotographer 0x7f08007f
 int id btnSearchOrderPhotographer 0x7f080080
 int id btnSearch_user 0x7f080081
@@ -2138,8 +2138,8 @@ int id etxt_searchOrderCH 0x7f08010d
 int id etxt_searchOrderCH_Cus 0x7f08010e
 int id etxt_searchOrderED 0x7f08010f
 int id etxt_searchOrderFM 0x7f080110
-int id etxt_searchOrderOrderED 0x7f080111
-int id etxt_searchOrderOrderFM 0x7f080112
+int id etxt_searchOrderOrderED_Cus 0x7f080111
+int id etxt_searchOrderOrderFM_Cus 0x7f080112
 int id etxt_searchOrderOrderPhotographer 0x7f080113
 int id etxt_searchOrderPhotographer 0x7f080114
 int id etxt_search_user 0x7f080115
@@ -2215,8 +2215,8 @@ int id listViewCH 0x7f08015a
 int id listViewCH_Cus 0x7f08015b
 int id listViewED 0x7f08015c
 int id listViewFM 0x7f08015d
-int id listViewOrderED 0x7f08015e
-int id listViewOrderFM 0x7f08015f
+int id listViewOrderED_Cus 0x7f08015e
+int id listViewOrderFM_Cus 0x7f08015f
 int id listViewOrderOrderPhotographer 0x7f080160
 int id listView_user 0x7f080161
 int id list_icon 0x7f080162

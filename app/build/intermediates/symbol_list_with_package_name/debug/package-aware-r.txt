@@ -1991,8 +1991,8 @@ id btnSearchOrderCH
 id btnSearchOrderCH_Cus
 id btnSearchOrderED
 id btnSearchOrderFM
-id btnSearchOrderOrderED
-id btnSearchOrderOrderFM
+id btnSearchOrderOrderED_Cus
+id btnSearchOrderOrderFM_Cus
 id btnSearchOrderOrderPhotographer
 id btnSearchOrderPhotographer
 id btnSearch_user
@@ -2139,8 +2139,8 @@ id etxt_searchOrderCH
 id etxt_searchOrderCH_Cus
 id etxt_searchOrderED
 id etxt_searchOrderFM
-id etxt_searchOrderOrderED
-id etxt_searchOrderOrderFM
+id etxt_searchOrderOrderED_Cus
+id etxt_searchOrderOrderFM_Cus
 id etxt_searchOrderOrderPhotographer
 id etxt_searchOrderPhotographer
 id etxt_search_user
@@ -2216,8 +2216,8 @@ id listViewCH
 id listViewCH_Cus
 id listViewED
 id listViewFM
-id listViewOrderED
-id listViewOrderFM
+id listViewOrderED_Cus
+id listViewOrderFM_Cus
 id listViewOrderOrderPhotographer
 id listView_user
 id list_icon
