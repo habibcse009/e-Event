@@ -15,7 +15,13 @@
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".FoodManagement.Order.OrderDetailsFMActivity"></activity>
+        <activity android:name=".FoodManagement.Product.ProductDescriptionFMActivity"></activity>
+        <activity android:name=".EventDecorator.Product.ProductDescriptionEDActivity" />
+        <activity android:name=".FoodManagement.Product.OrderFMActivity" />
+        <activity android:name=".EventDecorator.Product.OrderEDActivity" />
+        <activity android:name=".FoodManagement.Product.AddProductFMActivity" />
+        <activity android:name=".EventDecorator.Product.AddProductEDActivity" />
+        <activity android:name=".FoodManagement.Order.OrderDetailsFMActivity" />
         <activity android:name=".EventDecorator.Order.OrderDetailsEDActivity" />
         <activity android:name=".EventDecorator.Order.OrderListEDActivity" />
         <activity android:name=".FoodManagement.Order.OrderListFMActivity" />

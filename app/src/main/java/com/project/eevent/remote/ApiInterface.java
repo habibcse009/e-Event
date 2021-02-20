@@ -4,6 +4,10 @@ package com.project.eevent.remote;
 import com.project.eevent.Constant;
 import com.project.eevent.ConventionHall.Product.model.ProductCH;
 import com.project.eevent.ConventionHall.Product.model.ProductUploadCH;
+import com.project.eevent.EventDecorator.Product.model.ProductED;
+import com.project.eevent.EventDecorator.Product.model.ProductUploadED;
+import com.project.eevent.FoodManagement.Product.model.ProductFM;
+import com.project.eevent.FoodManagement.Product.model.ProductUploadFM;
 import com.project.eevent.Photographer.Product.model.ProductPhotographer;
 import com.project.eevent.Photographer.Product.model.ProductUploadPhotographer;
 
@@ -105,7 +109,7 @@ public interface ApiInterface {
                                        @Part(Constant.KEY_DESCRIPTION) RequestBody description,
                                        @Part(Constant.KEY_CH_CELL) RequestBody ch_cell);
 
-   /* //for live data search ED
+   //for live data search ED
     @GET("productED.php")
     Call<List<ProductCH>> getProductED(
             @Query("item_type") String item_type,
@@ -154,7 +158,7 @@ public interface ApiInterface {
     //for upload image and info
     @Multipart
     @POST("upload_productFM.php")
-    Call<ProductUploadCH> uploadFileFM(@Part MultipartBody.Part file,
+    Call<ProductUploadFM> uploadFileFM(@Part MultipartBody.Part file,
                                        @Part(Constant.KEY_FILE) RequestBody name,
                                        @Part(Constant.KEY_PRODUCT_NAME) RequestBody product_name,
                                        @Part(Constant.KEY_CATEGORY) RequestBody category,
@@ -162,6 +166,6 @@ public interface ApiInterface {
                                        @Part(Constant.KEY_PRICE) RequestBody price,
                                        @Part(Constant.KEY_DESCRIPTION) RequestBody description,
                                        @Part(Constant.KEY_FM_CELL) RequestBody fm_cell);
-*/
+
 
 }

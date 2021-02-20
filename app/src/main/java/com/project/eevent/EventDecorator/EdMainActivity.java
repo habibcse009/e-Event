@@ -13,6 +13,9 @@ import android.widget.Toast;
 
 import com.project.eevent.Constant;
 import com.project.eevent.ContactUsActivity;
+import com.project.eevent.EventDecorator.Order.OrderListEDActivity;
+import com.project.eevent.EventDecorator.Product.AddProductEDActivity;
+import com.project.eevent.EventDecorator.Product.AllProductEDActivity;
 import com.project.eevent.EventDecorator.Profile.ProfileEdActivity;
 import com.project.eevent.LoginActivity;
 import com.project.eevent.R;
@@ -78,18 +81,18 @@ public class EdMainActivity extends AppCompatActivity {
         cardMyServices.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //   Intent intent = new Intent(EdMainActivity.this, AllProductEDActivity.class);
-                //   intent.putExtra("type", "EventDecorator");
-                //   startActivity(intent);
+                Intent intent = new Intent(EdMainActivity.this, AllProductEDActivity.class);
+                intent.putExtra("type", "EventDecorator");
+                startActivity(intent);
 
             }
         });
         cardCreateServices.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //        Intent intent = new Intent(EdMainActivity.this, AddProductEDActivity.class);
-                //        intent.putExtra("type", "EventDecorator");
-                //       startActivity(intent);
+                Intent intent = new Intent(EdMainActivity.this, AddProductEDActivity.class);
+                intent.putExtra("type", "EventDecorator");
+                startActivity(intent);
 
             }
         });
@@ -98,8 +101,8 @@ public class EdMainActivity extends AppCompatActivity {
         cardOrdersED.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //      Intent intent = new Intent(EdMainActivity.this, OrderListEDActivity.class);
-                //      startActivity(intent);
+                Intent intent = new Intent(EdMainActivity.this, OrderListEDActivity.class);
+                startActivity(intent);
 
             }
         });

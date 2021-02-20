@@ -13,6 +13,9 @@ import android.widget.Toast;
 
 import com.project.eevent.Constant;
 import com.project.eevent.ContactUsActivity;
+import com.project.eevent.FoodManagement.Order.OrderListFMActivity;
+import com.project.eevent.FoodManagement.Product.AddProductFMActivity;
+import com.project.eevent.FoodManagement.Product.AllProductFMActivity;
 import com.project.eevent.FoodManagement.Profile.ProfileFmActivity;
 import com.project.eevent.LoginActivity;
 import com.project.eevent.R;
@@ -79,18 +82,18 @@ public class FmMainActivity extends AppCompatActivity {
         cardMyServices.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //      Intent intent = new Intent(FmMainActivity.this, AllProductFMActivity.class);
-                //      intent.putExtra("type", "FoodManagement");
-                //      startActivity(intent);
+                Intent intent = new Intent(FmMainActivity.this, AllProductFMActivity.class);
+                intent.putExtra("type", "FoodManagement");
+                startActivity(intent);
 
             }
         });
         cardCreateServices.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //     Intent intent = new Intent(FmMainActivity.this, AddProductFMActivity.class);
-                //     intent.putExtra("type", "FoodManagement");
-                //    startActivity(intent);
+                Intent intent = new Intent(FmMainActivity.this, AddProductFMActivity.class);
+                intent.putExtra("type", "FoodManagement");
+                startActivity(intent);
 
             }
         });
@@ -99,8 +102,8 @@ public class FmMainActivity extends AppCompatActivity {
         cardOrdersFM.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //    Intent intent = new Intent(FmMainActivity.this, OrderListFMActivity.class);
-                //    startActivity(intent);
+                Intent intent = new Intent(FmMainActivity.this, OrderListFMActivity.class);
+                startActivity(intent);
 
             }
         });
