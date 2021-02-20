@@ -61,7 +61,7 @@ public class ProductDescriptionCHActivity extends AppCompatActivity {
         txtViewReview.setVisibility(View.INVISIBLE);
         txtDeleteProduct = findViewById(R.id.txt_deleteProductCH);
         txtViewShop = findViewById(R.id.txt_viewAllProductsCH);
-        //txtDeleteProduct.setVisibility(View.INVISIBLE);
+        txtViewShop.setVisibility(View.INVISIBLE);
 
         //Fetching cell from shared preferences
         sharedPreferences = getSharedPreferences(Constant.SHARED_PREF_NAME, Context.MODE_PRIVATE);

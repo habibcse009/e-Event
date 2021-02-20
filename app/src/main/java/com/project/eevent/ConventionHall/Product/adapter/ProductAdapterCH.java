@@ -12,6 +12,7 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.project.eevent.Constant;
+import com.project.eevent.ConventionHall.Product.ProductDescriptionCHActivity;
 import com.project.eevent.ConventionHall.Product.model.ProductCH;
 import com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity;
 import com.project.eevent.R;
@@ -75,7 +76,7 @@ public class ProductAdapterCH extends RecyclerView.Adapter<ProductAdapterCH.MyVi
 
         @Override
         public void onClick(View view) {
-            Intent i = new Intent(context, ProductDescriptionPhotographerActivity.class);
+            Intent i = new Intent(context, ProductDescriptionCHActivity.class);
 
             i.putExtra("id", productCh.get(getAdapterPosition()).getProductId());
             i.putExtra("name", productCh.get(getAdapterPosition()).getName());

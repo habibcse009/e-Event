@@ -60,10 +60,12 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:padding="5dp"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="5dp"
+                        android:paddingRight="5dp"
                         android:text="Product Name"
-                        android:textSize="18sp"
                         android:textColor="@color/colorPrimary"
+                        android:textSize="18sp"
                         android:textStyle="bold" />
 
                     <TextView

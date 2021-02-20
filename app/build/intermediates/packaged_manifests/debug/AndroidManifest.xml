@@ -24,6 +24,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.eevent.ConventionHall.Order.OrderListCHActivity" />
+        <activity android:name="com.project.eevent.ConventionHall.Order.OrderDetailsCHActivity" />
+        <activity android:name="com.project.eevent.ConventionHall.Product.ProductDescriptionCHActivity" />
+        <activity android:name="com.project.eevent.ConventionHall.Product.OrderCHActivity" />
+        <activity android:name="com.project.eevent.ConventionHall.Product.AllProductCHActivity" />
+        <activity android:name="com.project.eevent.ConventionHall.Product.AddProductCHActivity" />
         <activity android:name="com.project.eevent.AboutUsActivity" />
         <activity android:name="com.project.eevent.Customer.Orders.CusOrderListEdActivity" />
         <activity android:name="com.project.eevent.Customer.Orders.CusOrderListFmActivity" />
