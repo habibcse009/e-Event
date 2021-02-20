@@ -23,6 +23,9 @@ public class Constant {
 
     public static final String SIGNUP_URL = MAIN_URL + "/signup.php";
     public static final String ORDER_SUBMIT_URL = MAIN_URL + "/order_submitPhotographer.php";
+    public static final String ORDER_SUBMIT_CH_URL = MAIN_URL + "/order_submitCH.php";
+    public static final String ORDER_SUBMIT_ED_URL = MAIN_URL + "/order_submitED.php";
+    public static final String ORDER_SUBMIT_FM_URL = MAIN_URL + "/order_submitFM.php";
 
     public static final String PROFILESP_URL = MAIN_URL + "/profileSp.php?mobile=";
     public static final String PROFILECUS_URL = MAIN_URL + "/profileCus.php?mobile=";

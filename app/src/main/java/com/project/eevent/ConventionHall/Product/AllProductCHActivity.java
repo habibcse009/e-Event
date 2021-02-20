@@ -52,7 +52,7 @@ public class AllProductCHActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_all_product_c_h);
 
-        getSupportActionBar().setTitle("All Products");
+        getSupportActionBar().setTitle("All Packages");
 
         whorlView = (WhorlView) this.findViewById(R.id.whorl2CH);
         whorlView.start();

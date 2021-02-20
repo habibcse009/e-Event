@@ -11,10 +11,8 @@ com/project/eevent/Admin/ViewUsers/EdListActivity.java
  com.project.eevent.Admin.ViewUsers.EdListActivity$5
  com.project.eevent.Admin.ViewUsers.EdListActivity$6
  com.project.eevent.Admin.ViewUsers.EdListActivity$7
-com/project/eevent/ConventionHall/Product/AllProductCHActivity.java
- com.project.eevent.ConventionHall.Product.AllProductCHActivity
- com.project.eevent.ConventionHall.Product.AllProductCHActivity$1
- com.project.eevent.ConventionHall.Product.AllProductCHActivity$2
+com/project/eevent/Customer/Orders/CusOrderListChActivity.java
+ com.project.eevent.Customer.Orders.CusOrderListChActivity
 com/project/eevent/Photographer/Product/AddProductPhotographerActivity.java
  com.project.eevent.Photographer.Product.AddProductPhotographerActivity
  com.project.eevent.Photographer.Product.AddProductPhotographerActivity$1
@@ -137,15 +135,9 @@ com/project/eevent/Admin/Profile/EditProfileAdminActivity.java
  com.project.eevent.Admin.Profile.EditProfileAdminActivity$4
 com/project/eevent/ConventionHall/Order/OrderListCHActivity.java
  com.project.eevent.ConventionHall.Order.OrderListCHActivity
-com/project/eevent/Admin/AdminMainActivity.java
- com.project.eevent.Admin.AdminMainActivity
- com.project.eevent.Admin.AdminMainActivity$1
- com.project.eevent.Admin.AdminMainActivity$2
- com.project.eevent.Admin.AdminMainActivity$3
- com.project.eevent.Admin.AdminMainActivity$4
- com.project.eevent.Admin.AdminMainActivity$5
- com.project.eevent.Admin.AdminMainActivity$6
- com.project.eevent.Admin.AdminMainActivity$7
+com/project/eevent/Photographer/Product/adapter/ProductAdapterPhotographer.java
+ com.project.eevent.Photographer.Product.adapter.ProductAdapterPhotographer
+ com.project.eevent.Photographer.Product.adapter.ProductAdapterPhotographer$MyViewHolder
 com/project/eevent/Admin/ViewUsers/CusListActivity.java
  com.project.eevent.Admin.ViewUsers.CusListActivity
  com.project.eevent.Admin.ViewUsers.CusListActivity$1
@@ -159,12 +151,18 @@ com/project/eevent/Admin/ViewUsers/CusListActivity.java
  com.project.eevent.Admin.ViewUsers.CusListActivity$5
  com.project.eevent.Admin.ViewUsers.CusListActivity$6
  com.project.eevent.Admin.ViewUsers.CusListActivity$7
-com/project/eevent/BuildConfig.java
- com.project.eevent.BuildConfig
+com/project/eevent/FoodManagement/Product/AllProductFMActivity.java
+ com.project.eevent.FoodManagement.Product.AllProductFMActivity
+com/project/eevent/ConventionHall/Product/AllProductCHActivity.java
+ com.project.eevent.ConventionHall.Product.AllProductCHActivity
+ com.project.eevent.ConventionHall.Product.AllProductCHActivity$1
+ com.project.eevent.ConventionHall.Product.AllProductCHActivity$2
 com/project/eevent/Customer/Orders/CusOrderListEdActivity.java
  com.project.eevent.Customer.Orders.CusOrderListEdActivity
 com/project/eevent/remote/ApiClient.java
  com.project.eevent.remote.ApiClient
+com/project/eevent/EventDecorator/Product/AllProductEDActivity.java
+ com.project.eevent.EventDecorator.Product.AllProductEDActivity
 com/project/eevent/EventDecorator/Profile/EditProfileEdActivity.java
  com.project.eevent.EventDecorator.Profile.EditProfileEdActivity
  com.project.eevent.EventDecorator.Profile.EditProfileEdActivity$1
@@ -193,8 +191,9 @@ com/project/eevent/Photographer/Product/AllProductPhotographerActivity.java
  com.project.eevent.Photographer.Product.AllProductPhotographerActivity
  com.project.eevent.Photographer.Product.AllProductPhotographerActivity$1
  com.project.eevent.Photographer.Product.AllProductPhotographerActivity$2
-com/project/eevent/Customer/Orders/CusOrderListChActivity.java
- com.project.eevent.Customer.Orders.CusOrderListChActivity
+com/project/eevent/ConventionHall/Product/adapter/ProductAdapterCH.java
+ com.project.eevent.ConventionHall.Product.adapter.ProductAdapterCH
+ com.project.eevent.ConventionHall.Product.adapter.ProductAdapterCH$MyViewHolder
 com/project/eevent/Customer/CusMainActivity.java
  com.project.eevent.Customer.CusMainActivity
  com.project.eevent.Customer.CusMainActivity$1
@@ -254,8 +253,8 @@ com/project/eevent/ConventionHall/Profile/EditProfileChActivity.java
  com.project.eevent.ConventionHall.Profile.EditProfileChActivity$6
 com/project/eevent/Photographer/Product/model/ProductUploadPhotographer.java
  com.project.eevent.Photographer.Product.model.ProductUploadPhotographer
-com/project/eevent/ConventionHall/Product/OrderCHActivity.java
- com.project.eevent.ConventionHall.Product.OrderCHActivity
+com/project/eevent/BuildConfig.java
+ com.project.eevent.BuildConfig
 com/project/eevent/Photographer/Product/model/ProductPhotographer.java
  com.project.eevent.Photographer.Product.model.ProductPhotographer
 com/project/eevent/FoodManagement/Profile/ProfileFmActivity.java
@@ -350,9 +349,15 @@ com/project/eevent/ContactUsActivity.java
  com.project.eevent.ContactUsActivity$3
  com.project.eevent.ContactUsActivity$4
  com.project.eevent.ContactUsActivity$5
-com/project/eevent/ConventionHall/Product/adapter/ProductAdapterCH.java
- com.project.eevent.ConventionHall.Product.adapter.ProductAdapterCH
- com.project.eevent.ConventionHall.Product.adapter.ProductAdapterCH$MyViewHolder
+com/project/eevent/Admin/AdminMainActivity.java
+ com.project.eevent.Admin.AdminMainActivity
+ com.project.eevent.Admin.AdminMainActivity$1
+ com.project.eevent.Admin.AdminMainActivity$2
+ com.project.eevent.Admin.AdminMainActivity$3
+ com.project.eevent.Admin.AdminMainActivity$4
+ com.project.eevent.Admin.AdminMainActivity$5
+ com.project.eevent.Admin.AdminMainActivity$6
+ com.project.eevent.Admin.AdminMainActivity$7
 com/project/eevent/Photographer/Product/ProductDescriptionPhotographerActivity.java
  com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity
  com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity$1
@@ -373,6 +378,11 @@ com/project/eevent/ConventionHall/Product/ProductDescriptionCHActivity.java
  com.project.eevent.ConventionHall.Product.ProductDescriptionCHActivity$4
  com.project.eevent.ConventionHall.Product.ProductDescriptionCHActivity$5
  com.project.eevent.ConventionHall.Product.ProductDescriptionCHActivity$6
-com/project/eevent/Photographer/Product/adapter/ProductAdapterPhotographer.java
- com.project.eevent.Photographer.Product.adapter.ProductAdapterPhotographer
- com.project.eevent.Photographer.Product.adapter.ProductAdapterPhotographer$MyViewHolder
+com/project/eevent/ConventionHall/Product/OrderCHActivity.java
+ com.project.eevent.ConventionHall.Product.OrderCHActivity
+ com.project.eevent.ConventionHall.Product.OrderCHActivity$1
+ com.project.eevent.ConventionHall.Product.OrderCHActivity$2
+ com.project.eevent.ConventionHall.Product.OrderCHActivity$3
+ com.project.eevent.ConventionHall.Product.OrderCHActivity$4
+ com.project.eevent.ConventionHall.Product.OrderCHActivity$5
+ com.project.eevent.ConventionHall.Product.OrderCHActivity$6

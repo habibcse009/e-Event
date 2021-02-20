@@ -2641,6 +2641,8 @@ layout activity_add_product_c_h
 layout activity_add_product_photographer
 layout activity_admin_main
 layout activity_all_product_c_h
+layout activity_all_product_e_d
+layout activity_all_product_f_m
 layout activity_all_product_photographer
 layout activity_ch_list
 layout activity_ch_main

@@ -53,7 +53,7 @@ public class AllProductPhotographerActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_all_product_photographer);
 
-        getSupportActionBar().setTitle("All Products");
+        getSupportActionBar().setTitle("All Packages");
 
         whorlView = (WhorlView) this.findViewById(R.id.whorl2Photographer);
         whorlView.start();

@@ -14,8 +14,11 @@ import android.widget.Toast;
 import com.project.eevent.AboutUsActivity;
 import com.project.eevent.Constant;
 import com.project.eevent.ContactUsActivity;
+import com.project.eevent.ConventionHall.Product.AllProductCHActivity;
 import com.project.eevent.Customer.Orders.MainOrderListActivity;
 import com.project.eevent.Customer.Profile.ProfileCusActivity;
+import com.project.eevent.EventDecorator.Product.AllProductEDActivity;
+import com.project.eevent.FoodManagement.Product.AllProductFMActivity;
 import com.project.eevent.LoginActivity;
 import com.project.eevent.Photographer.Product.AllProductPhotographerActivity;
 import com.project.eevent.R;
@@ -103,10 +106,10 @@ public class CusMainActivity extends AppCompatActivity {
         cardCHCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-              /*  Intent intent = new Intent(CusMainActivity.this, AllProductsActivity.class);
+                Intent intent = new Intent(CusMainActivity.this, AllProductCHActivity.class);
                 intent.putExtra("type", "Customer");
                 startActivity(intent);
-*/
+
             }
         });
         cardPhotographerCus.setOnClickListener(new View.OnClickListener() {
@@ -121,19 +124,19 @@ public class CusMainActivity extends AppCompatActivity {
         cardEDCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-              /*  Intent intent = new Intent(CusMainActivity.this, AllProductsActivity.class);
+                Intent intent = new Intent(CusMainActivity.this, AllProductEDActivity.class);
                 intent.putExtra("type", "Customer");
                 startActivity(intent);
-*/
+
             }
         });
         cardFMCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-              /*  Intent intent = new Intent(CusMainActivity.this, AllProductsActivity.class);
+                Intent intent = new Intent(CusMainActivity.this, AllProductFMActivity.class);
                 intent.putExtra("type", "Customer");
                 startActivity(intent);
-*/
+
             }
         });
 

@@ -15,7 +15,9 @@
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ConventionHall.Order.OrderListCHActivity"></activity>
+        <activity android:name=".EventDecorator.Product.AllProductEDActivity"></activity>
+        <activity android:name=".FoodManagement.Product.AllProductFMActivity" />
+        <activity android:name=".ConventionHall.Order.OrderListCHActivity" />
         <activity android:name=".ConventionHall.Order.OrderDetailsCHActivity" />
         <activity android:name=".ConventionHall.Product.ProductDescriptionCHActivity" />
         <activity android:name=".ConventionHall.Product.OrderCHActivity" />

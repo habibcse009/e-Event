@@ -24,6 +24,8 @@
         android:testOnly="true"
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.eevent.EventDecorator.Product.AllProductEDActivity" />
+        <activity android:name="com.project.eevent.FoodManagement.Product.AllProductFMActivity" />
         <activity android:name="com.project.eevent.ConventionHall.Order.OrderListCHActivity" />
         <activity android:name="com.project.eevent.ConventionHall.Order.OrderDetailsCHActivity" />
         <activity android:name="com.project.eevent.ConventionHall.Product.ProductDescriptionCHActivity" />

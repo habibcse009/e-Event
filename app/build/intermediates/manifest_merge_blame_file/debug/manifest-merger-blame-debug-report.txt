@@ -21,7 +21,7 @@
 13-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:12:22-77
 14
 15    <application
-15-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:9:5-73:19
+15-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:9:5-75:19
 16        android:allowBackup="true"
 16-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:10:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -41,190 +41,196 @@
 25-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:15:9-44
 26        android:usesCleartextTraffic="true" >
 26-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:16:9-44
-27        <activity android:name="com.project.eevent.ConventionHall.Order.OrderListCHActivity" />
-27-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:18:9-87
-27-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:18:19-75
-28        <activity android:name="com.project.eevent.ConventionHall.Order.OrderDetailsCHActivity" />
+27        <activity android:name="com.project.eevent.EventDecorator.Product.AllProductEDActivity" />
+27-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:18:9-90
+27-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:18:19-78
+28        <activity android:name="com.project.eevent.FoodManagement.Product.AllProductFMActivity" />
 28-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:19:9-81
 28-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:19:19-78
-29        <activity android:name="com.project.eevent.ConventionHall.Product.ProductDescriptionCHActivity" />
-29-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:20:9-89
-29-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:20:19-86
-30        <activity android:name="com.project.eevent.ConventionHall.Product.OrderCHActivity" />
-30-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:21:9-76
-30-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:21:19-73
-31        <activity android:name="com.project.eevent.ConventionHall.Product.AllProductCHActivity" />
-31-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:22:9-81
-31-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:22:19-78
-32        <activity android:name="com.project.eevent.ConventionHall.Product.AddProductCHActivity" />
-32-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:23:9-81
-32-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:23:19-78
-33        <activity android:name="com.project.eevent.AboutUsActivity" />
-33-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:24:9-53
-33-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:24:19-50
-34        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListEdActivity" />
-34-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:25:9-76
-34-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:25:19-73
-35        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListFmActivity" />
-35-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:26:9-76
-35-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:26:19-73
-36        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListChActivity" />
+29        <activity android:name="com.project.eevent.ConventionHall.Order.OrderListCHActivity" />
+29-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:20:9-78
+29-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:20:19-75
+30        <activity android:name="com.project.eevent.ConventionHall.Order.OrderDetailsCHActivity" />
+30-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:21:9-81
+30-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:21:19-78
+31        <activity android:name="com.project.eevent.ConventionHall.Product.ProductDescriptionCHActivity" />
+31-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:22:9-89
+31-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:22:19-86
+32        <activity android:name="com.project.eevent.ConventionHall.Product.OrderCHActivity" />
+32-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:23:9-76
+32-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:23:19-73
+33        <activity android:name="com.project.eevent.ConventionHall.Product.AllProductCHActivity" />
+33-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:24:9-81
+33-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:24:19-78
+34        <activity android:name="com.project.eevent.ConventionHall.Product.AddProductCHActivity" />
+34-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:25:9-81
+34-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:25:19-78
+35        <activity android:name="com.project.eevent.AboutUsActivity" />
+35-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:26:9-53
+35-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:26:19-50
+36        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListEdActivity" />
 36-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:27:9-76
 36-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:27:19-73
-37        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListPhotographerActivity" />
-37-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:28:9-86
-37-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:28:19-83
-38        <activity android:name="com.project.eevent.Customer.Orders.MainOrderListActivity" />
-38-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:29:9-75
-38-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:29:19-72
-39        <activity android:name="com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity" />
-39-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:30:9-97
-39-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:30:19-94
-40        <activity android:name="com.project.eevent.Photographer.Product.OrderPhotographerActivity" />
-40-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:31:9-84
-40-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:31:19-81
-41        <activity android:name="com.project.eevent.Photographer.Order.OrderDetailsPhotographerActivity" />
-41-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:32:9-89
-41-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:32:19-86
-42        <activity android:name="com.project.eevent.Photographer.Order.OrderListPhotographerActivity" />
-42-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:33:9-86
-42-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:33:19-83
-43        <activity android:name="com.project.eevent.Photographer.Product.AddProductPhotographerActivity" />
+37        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListFmActivity" />
+37-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:28:9-76
+37-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:28:19-73
+38        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListChActivity" />
+38-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:29:9-76
+38-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:29:19-73
+39        <activity android:name="com.project.eevent.Customer.Orders.CusOrderListPhotographerActivity" />
+39-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:30:9-86
+39-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:30:19-83
+40        <activity android:name="com.project.eevent.Customer.Orders.MainOrderListActivity" />
+40-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:31:9-75
+40-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:31:19-72
+41        <activity android:name="com.project.eevent.Photographer.Product.ProductDescriptionPhotographerActivity" />
+41-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:32:9-97
+41-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:32:19-94
+42        <activity android:name="com.project.eevent.Photographer.Product.OrderPhotographerActivity" />
+42-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:33:9-84
+42-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:33:19-81
+43        <activity android:name="com.project.eevent.Photographer.Order.OrderDetailsPhotographerActivity" />
 43-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:34:9-89
 43-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:34:19-86
-44        <activity android:name="com.project.eevent.Photographer.Product.AllProductPhotographerActivity" />
-44-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:35:9-89
-44-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:35:19-86
-45        <activity android:name="com.project.eevent.ContactUsActivity" />
-45-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:36:9-55
-45-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:36:19-52
-46        <activity android:name="com.project.eevent.Photographer.Profile.EditProfilePhotographerActivity" />
-46-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:37:9-90
-46-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:37:19-87
-47        <activity android:name="com.project.eevent.Photographer.Profile.ProfilePhotographerActivity" />
-47-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:38:9-86
-47-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:38:19-83
-48        <activity android:name="com.project.eevent.FoodManagement.Profile.EditProfileFmActivity" />
-48-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:39:9-82
-48-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:39:19-79
-49        <activity android:name="com.project.eevent.FoodManagement.Profile.ProfileFmActivity" />
-49-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:40:9-78
-49-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:40:19-75
-50        <activity android:name="com.project.eevent.EventDecorator.Profile.EditProfileEdActivity" />
+44        <activity android:name="com.project.eevent.Photographer.Order.OrderListPhotographerActivity" />
+44-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:35:9-86
+44-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:35:19-83
+45        <activity android:name="com.project.eevent.Photographer.Product.AddProductPhotographerActivity" />
+45-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:36:9-89
+45-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:36:19-86
+46        <activity android:name="com.project.eevent.Photographer.Product.AllProductPhotographerActivity" />
+46-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:37:9-89
+46-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:37:19-86
+47        <activity android:name="com.project.eevent.ContactUsActivity" />
+47-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:38:9-55
+47-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:38:19-52
+48        <activity android:name="com.project.eevent.Photographer.Profile.EditProfilePhotographerActivity" />
+48-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:39:9-90
+48-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:39:19-87
+49        <activity android:name="com.project.eevent.Photographer.Profile.ProfilePhotographerActivity" />
+49-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:40:9-86
+49-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:40:19-83
+50        <activity android:name="com.project.eevent.FoodManagement.Profile.EditProfileFmActivity" />
 50-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:41:9-82
 50-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:41:19-79
-51        <activity android:name="com.project.eevent.EventDecorator.Profile.ProfileEdActivity" />
+51        <activity android:name="com.project.eevent.FoodManagement.Profile.ProfileFmActivity" />
 51-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:42:9-78
 51-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:42:19-75
-52        <activity android:name="com.project.eevent.ConventionHall.Profile.EditProfileChActivity" />
+52        <activity android:name="com.project.eevent.EventDecorator.Profile.EditProfileEdActivity" />
 52-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:43:9-82
 52-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:43:19-79
-53        <activity android:name="com.project.eevent.ConventionHall.Profile.ProfileChActivity" />
+53        <activity android:name="com.project.eevent.EventDecorator.Profile.ProfileEdActivity" />
 53-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:44:9-78
 53-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:44:19-75
-54        <activity android:name="com.project.eevent.Customer.Profile.EditProfileCusActivity" />
-54-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:45:9-77
-54-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:45:19-74
-55        <activity android:name="com.project.eevent.Customer.Profile.ProfileCusActivity" />
-55-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:46:9-73
-55-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:46:19-70
-56        <activity android:name="com.project.eevent.Admin.ViewUsers.FmListActivity" />
-56-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:47:9-68
-56-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:47:19-65
-57        <activity android:name="com.project.eevent.Admin.ViewUsers.EdListActivity" />
-57-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:48:9-68
-57-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:48:19-65
-58        <activity android:name="com.project.eevent.Admin.ViewUsers.ChListActivity" />
+54        <activity android:name="com.project.eevent.ConventionHall.Profile.EditProfileChActivity" />
+54-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:45:9-82
+54-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:45:19-79
+55        <activity android:name="com.project.eevent.ConventionHall.Profile.ProfileChActivity" />
+55-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:46:9-78
+55-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:46:19-75
+56        <activity android:name="com.project.eevent.Customer.Profile.EditProfileCusActivity" />
+56-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:47:9-77
+56-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:47:19-74
+57        <activity android:name="com.project.eevent.Customer.Profile.ProfileCusActivity" />
+57-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:48:9-73
+57-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:48:19-70
+58        <activity android:name="com.project.eevent.Admin.ViewUsers.FmListActivity" />
 58-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:49:9-68
 58-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:49:19-65
-59        <activity android:name="com.project.eevent.Admin.ViewUsers.PhotographerListActivity" />
-59-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:50:9-78
-59-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:50:19-75
-60        <activity android:name="com.project.eevent.Admin.ViewUsers.CusListActivity" />
-60-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:51:9-69
-60-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:51:19-66
-61        <activity android:name="com.project.eevent.Admin.Profile.EditProfileAdminActivity" />
-61-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:52:9-76
-61-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:52:19-73
-62        <activity android:name="com.project.eevent.Admin.Profile.ProfileAdminActivity" />
-62-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:53:9-72
-62-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:53:19-69
-63        <activity android:name="com.project.eevent.Photographer.PhotographerMainActivity" />
-63-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:54:9-75
-63-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:54:19-72
-64        <activity android:name="com.project.eevent.FoodManagement.FmMainActivity" />
-64-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:55:9-67
-64-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:55:19-64
-65        <activity android:name="com.project.eevent.EventDecorator.EdMainActivity" />
-65-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:56:9-67
-65-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:56:19-64
-66        <activity android:name="com.project.eevent.Customer.CusMainActivity" />
-66-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:57:9-62
-66-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:57:19-59
-67        <activity android:name="com.project.eevent.ConventionHall.ChMainActivity" />
+59        <activity android:name="com.project.eevent.Admin.ViewUsers.EdListActivity" />
+59-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:50:9-68
+59-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:50:19-65
+60        <activity android:name="com.project.eevent.Admin.ViewUsers.ChListActivity" />
+60-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:51:9-68
+60-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:51:19-65
+61        <activity android:name="com.project.eevent.Admin.ViewUsers.PhotographerListActivity" />
+61-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:52:9-78
+61-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:52:19-75
+62        <activity android:name="com.project.eevent.Admin.ViewUsers.CusListActivity" />
+62-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:53:9-69
+62-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:53:19-66
+63        <activity android:name="com.project.eevent.Admin.Profile.EditProfileAdminActivity" />
+63-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:54:9-76
+63-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:54:19-73
+64        <activity android:name="com.project.eevent.Admin.Profile.ProfileAdminActivity" />
+64-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:55:9-72
+64-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:55:19-69
+65        <activity android:name="com.project.eevent.Photographer.PhotographerMainActivity" />
+65-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:56:9-75
+65-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:56:19-72
+66        <activity android:name="com.project.eevent.FoodManagement.FmMainActivity" />
+66-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:57:9-67
+66-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:57:19-64
+67        <activity android:name="com.project.eevent.EventDecorator.EdMainActivity" />
 67-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:58:9-67
 67-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:58:19-64
-68        <activity android:name="com.project.eevent.Admin.AdminMainActivity" />
-68-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:59:9-61
-68-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:59:19-58
-69        <activity android:name="com.project.eevent.SignupActivity" />
-69-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:60:9-52
-69-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:60:19-49
-70        <activity android:name="com.project.eevent.LoginActivity" />
-70-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:61:9-51
-70-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:61:19-48
-71        <activity android:name="com.project.eevent.SplashActivity" >
-71-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:62:9-68:20
+68        <activity android:name="com.project.eevent.Customer.CusMainActivity" />
+68-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:59:9-62
+68-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:59:19-59
+69        <activity android:name="com.project.eevent.ConventionHall.ChMainActivity" />
+69-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:60:9-67
+69-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:60:19-64
+70        <activity android:name="com.project.eevent.Admin.AdminMainActivity" />
+70-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:61:9-61
+70-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:61:19-58
+71        <activity android:name="com.project.eevent.SignupActivity" />
+71-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:62:9-52
 71-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:62:19-49
-72            <intent-filter>
-72-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:63:13-67:29
-73                <action android:name="android.intent.action.MAIN" />
-73-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:64:17-69
-73-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:64:25-66
-74
-75                <category android:name="android.intent.category.LAUNCHER" />
-75-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:66:17-77
-75-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:66:27-74
-76            </intent-filter>
-77        </activity>
-78
-79        <uses-library
-79-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:70:9-72:40
-80            android:name="org.apache.http.legacy"
-80-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:71:13-50
-81            android:required="false" />
-81-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:72:13-37
-82
-83        <activity
-83-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:27:9-29:72
-84            android:name="com.karumi.dexter.DexterActivity"
-84-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:28:13-60
-85            android:theme="@style/Dexter.Internal.Theme.Transparent" />
-85-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:29:13-69
-86        <activity
-86-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:15:9-17:67
-87            android:name="in.mayanknagwanshi.imagepicker.ImageSelectActivity"
-87-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:16:13-78
-88            android:theme="@style/Theme.AppCompat.Light.Dialog" />
-88-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:17:13-64
-89
-90        <provider
-90-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:19:9-27:20
-91            android:name="androidx.core.content.FileProvider"
-91-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:20:13-62
-92            android:authorities="com.project.eevent.provider"
-92-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:21:13-60
-93            android:exported="false"
-93-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:22:13-37
-94            android:grantUriPermissions="true" >
-94-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:23:13-47
-95            <meta-data
-95-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:24:13-26:58
-96                android:name="android.support.FILE_PROVIDER_PATHS"
-96-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:25:17-67
-97                android:resource="@xml/provider_paths" />
-97-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:26:17-55
-98        </provider>
-99    </application>
-100
-101</manifest>
+72        <activity android:name="com.project.eevent.LoginActivity" />
+72-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:63:9-51
+72-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:63:19-48
+73        <activity android:name="com.project.eevent.SplashActivity" >
+73-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:64:9-70:20
+73-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:64:19-49
+74            <intent-filter>
+74-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:65:13-69:29
+75                <action android:name="android.intent.action.MAIN" />
+75-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:66:17-69
+75-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:66:25-66
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:68:17-77
+77-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:68:27-74
+78            </intent-filter>
+79        </activity>
+80
+81        <uses-library
+81-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:72:9-74:40
+82            android:name="org.apache.http.legacy"
+82-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:73:13-50
+83            android:required="false" />
+83-->H:\ClientProject\Papia_resourse\App_Code\eEvent\app\src\main\AndroidManifest.xml:74:13-37
+84
+85        <activity
+85-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:27:9-29:72
+86            android:name="com.karumi.dexter.DexterActivity"
+86-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:28:13-60
+87            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+87-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:29:13-69
+88        <activity
+88-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:15:9-17:67
+89            android:name="in.mayanknagwanshi.imagepicker.ImageSelectActivity"
+89-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:16:13-78
+90            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+90-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:17:13-64
+91
+92        <provider
+92-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:19:9-27:20
+93            android:name="androidx.core.content.FileProvider"
+93-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:20:13-62
+94            android:authorities="com.project.eevent.provider"
+94-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:21:13-60
+95            android:exported="false"
+95-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:22:13-37
+96            android:grantUriPermissions="true" >
+96-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:23:13-47
+97            <meta-data
+97-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:24:13-26:58
+98                android:name="android.support.FILE_PROVIDER_PATHS"
+98-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:25:17-67
+99                android:resource="@xml/provider_paths" />
+99-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:26:17-55
+100        </provider>
+101    </application>
+102
+103</manifest>
