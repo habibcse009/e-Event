@@ -20,7 +20,7 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/txtOrderInfoTitle"
+                android:id="@+id/txtOrderInfoTitleCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="5dp"
@@ -39,7 +39,7 @@
                 android:background="@color/red_danger" />
 
             <TextView
-                android:id="@+id/txt_order_id"
+                android:id="@+id/txt_order_idCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
@@ -58,7 +58,7 @@
                 android:textColor="@color/colorRed_A400" />
 
             <TextView
-                android:id="@+id/txt_product_nameCH"
+                android:id="@+id/txt_product_nameCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/round_border_two"
@@ -74,7 +74,7 @@
                 android:textColor="@color/colorRed_A400" />
 
             <TextView
-                android:id="@+id/txt_product_priceCH"
+                android:id="@+id/txt_product_priceCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/round_border_two"
@@ -91,7 +91,7 @@
                 android:textColor="@color/colorRed_A400" />
 
             <TextView
-                android:id="@+id/txt_program_dateCH"
+                android:id="@+id/txt_program_dateCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="5dp"
@@ -120,7 +120,7 @@
                 android:background="@color/red_danger" />
 
             <TextView
-                android:id="@+id/txt_time_dateCH"
+                android:id="@+id/txt_time_dateCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="3dp"
@@ -136,7 +136,7 @@
                 android:textColor="@color/colorRed_A400" />
 
             <TextView
-                android:id="@+id/txt_full_addressCH"
+                android:id="@+id/txt_full_addressCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="3dp"
@@ -170,7 +170,7 @@
                 android:textColor="@color/colorRed_A400" />
 
             <TextView
-                android:id="@+id/txt_bkash_text_idCH"
+                android:id="@+id/txt_bkash_text_idCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="5dp"
@@ -200,7 +200,7 @@
                 android:background="@color/red_danger" />
 
             <TextView
-                android:id="@+id/txt_order_status"
+                android:id="@+id/txt_order_statusCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
@@ -208,7 +208,7 @@
                 android:text=" Order Status" />
 
             <TextView
-                android:id="@+id/txt_call_retailerCH"
+                android:id="@+id/txt_call_retailerCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="55dp"
@@ -227,7 +227,7 @@
                 android:textColor="@color/red_danger" />
 
             <Button
-                android:id="@+id/txt_confirm_orderCH"
+                android:id="@+id/txt_confirm_orderCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="25dp"
@@ -241,7 +241,7 @@
                 android:textColor="#fff" />
 
             <Button
-                android:id="@+id/txt_cancel_orderCH"
+                android:id="@+id/txt_cancel_orderCH_OderDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="25dp"

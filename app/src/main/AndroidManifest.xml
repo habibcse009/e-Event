@@ -15,7 +15,11 @@
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".EventDecorator.Product.AllProductEDActivity"></activity>
+        <activity android:name=".FoodManagement.Order.OrderDetailsFMActivity"></activity>
+        <activity android:name=".EventDecorator.Order.OrderDetailsEDActivity" />
+        <activity android:name=".EventDecorator.Order.OrderListEDActivity" />
+        <activity android:name=".FoodManagement.Order.OrderListFMActivity" />
+        <activity android:name=".EventDecorator.Product.AllProductEDActivity" />
         <activity android:name=".FoodManagement.Product.AllProductFMActivity" />
         <activity android:name=".ConventionHall.Order.OrderListCHActivity" />
         <activity android:name=".ConventionHall.Order.OrderDetailsCHActivity" />

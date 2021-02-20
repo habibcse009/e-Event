@@ -11,10 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211cb833-034d-480f-8204-9764ec0e5341" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Product/AllProductEDActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Product/AllProductFMActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_all_product_e_d.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_all_product_f_m.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Order/OrderDetailsEDActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/EventDecorator/Order/OrderListEDActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Order/OrderDetailsFMActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/FoodManagement/Order/OrderListFMActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_details_e_d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_details_f_m.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_list_e_d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_list_f_m.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/order_list_item_ch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/order_list_item_ed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/order_list_item_fm.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
@@ -25,7 +32,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
@@ -54,10 +60,10 @@
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Product/AllProductCHActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Product/AllProductCHActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Product/OrderCHActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Product/OrderCHActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/Customer/CusMainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/Customer/CusMainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/Photographer/Product/AllProductPhotographerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/Photographer/Product/AllProductPhotographerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Order/OrderDetailsCHActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Order/OrderDetailsCHActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Order/OrderListCHActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/eevent/ConventionHall/Order/OrderListCHActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_cus_order_list_ch.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_cus_order_list_ch.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_details_c_h.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_details_c_h.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +128,8 @@
       <recent name="com.project.eevent.ConventionHall.Profile" />
     </key>
     <key name="android.template.794595167">
+      <recent name="com.project.eevent.FoodManagement.Order" />
+      <recent name="com.project.eevent.EventDecorator.Order" />
       <recent name="com.project.eevent.EventDecorator.Product" />
       <recent name="com.project.eevent.FoodManagement.Product" />
     </key>
@@ -358,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613824895814</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Order product convention hall">
+      <created>1613826728832</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1613826728844</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -379,7 +394,8 @@
     <MESSAGE value="fixed bug" />
     <MESSAGE value="All profile and update profile added" />
     <MESSAGE value="Add product and details convention hall" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add product and details convention hall" />
+    <MESSAGE value="Order product convention hall" />
+    <option name="LAST_COMMIT_MESSAGE" value="Order product convention hall" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613754768776">
@@ -390,14 +406,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608914328042" />
-    <state x="349" y="167" key="AndroidCreateResourceFileDialog" timestamp="1611778443229">
+    <state x="349" y="167" key="AndroidCreateResourceFileDialog" timestamp="1613827524869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1611778443229" />
-    <state x="341" y="0" key="CommitChangelistDialog2" timestamp="1613824884006">
+    <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1613827524869" />
+    <state x="341" y="0" key="CommitChangelistDialog2" timestamp="1613826709194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="341" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1613824884006" />
+    <state x="341" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1613826709194" />
     <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1610993738981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -418,17 +434,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1491" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613824465012" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1613824913931">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1613826733875">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613824913931" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613826733875" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1610993846340">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1610993846340" />
-    <state width="496" height="72" key="javadoc.popup.new" timestamp="1613826011330">
+    <state width="496" height="72" key="javadoc.popup.new" timestamp="1613828857492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="496" height="72" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1613826011330" />
+    <state width="496" height="72" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1613828857492" />
   </component>
 </project>

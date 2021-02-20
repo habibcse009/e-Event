@@ -24,6 +24,10 @@
         android:testOnly="true"
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.eevent.FoodManagement.Order.OrderDetailsFMActivity" />
+        <activity android:name="com.project.eevent.EventDecorator.Order.OrderDetailsEDActivity" />
+        <activity android:name="com.project.eevent.EventDecorator.Order.OrderListEDActivity" />
+        <activity android:name="com.project.eevent.FoodManagement.Order.OrderListFMActivity" />
         <activity android:name="com.project.eevent.EventDecorator.Product.AllProductEDActivity" />
         <activity android:name="com.project.eevent.FoodManagement.Product.AllProductFMActivity" />
         <activity android:name="com.project.eevent.ConventionHall.Order.OrderListCHActivity" />

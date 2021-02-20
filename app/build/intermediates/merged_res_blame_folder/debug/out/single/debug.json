@@ -16,6 +16,10 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_order_list_photographer.xml"
     },
     {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_list_item_fm.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\order_list_item_fm.xml"
+    },
+    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_main.png.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable-v24\\logo_main.png"
     },
@@ -66,6 +70,10 @@
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ch_list.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_ch_list.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_list_f_m.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_order_list_f_m.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_create_notice.xml.flat",
@@ -480,8 +488,16 @@
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\drawable\\ic_opps_review.xml"
     },
     {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_list_item_ed.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\order_list_item_ed.xml"
+    },
+    {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_product_f_m.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_all_product_f_m.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_details_f_m.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_order_details_f_m.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fm_list.xml.flat",
@@ -506,6 +522,10 @@
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_ch_list_item.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\ch_list_item.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_list_item_ch.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\order_list_item_ch.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_one.png.flat",
@@ -706,6 +726,14 @@
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cus_order_list_ed.xml.flat",
         "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_cus_order_list_ed.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_details_e_d.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_order_details_e_d.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_list_e_d.xml.flat",
+        "source": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\src\\main\\res\\layout\\activity_order_list_e_d.xml"
     },
     {
         "merged": "H:\\ClientProject\\Papia_resourse\\App_Code\\eEvent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_opps_shop.xml.flat",

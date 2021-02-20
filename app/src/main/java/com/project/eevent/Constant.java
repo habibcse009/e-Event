@@ -58,6 +58,9 @@ public class Constant {
 
     public static final String UPDATE_ORDER_URL = MAIN_URL + "/update_order.php";
     public static final String UPDATE_ORDER_PHOTOGRAPHER_URL = MAIN_URL + "/update_orderPhotographer.php";
+    public static final String UPDATE_ORDER_CH_URL = MAIN_URL + "/update_orderCH.php";
+    public static final String UPDATE_ORDER_FM_URL = MAIN_URL + "/update_orderFM.php";
+    public static final String UPDATE_ORDER_ED_URL = MAIN_URL + "/update_orderED.php";
 
     public static final String PUBLISH_NOTICE_URL = MAIN_URL + "/publish_notice.php";
 
@@ -90,6 +93,9 @@ public class Constant {
 
     public static final String SP_ORDER_LIST_URL = MAIN_URL + "/sp_order_list.php?cell=";
     public static final String PHOTOGRAPHER_ORDER_LIST_URL = MAIN_URL + "/Photographer_order_list.php?cell=";
+    public static final String CH_ORDER_LIST_URL = MAIN_URL + "/CH_order_list.php?cell=";
+    public static final String ED_ORDER_LIST_URL = MAIN_URL + "/ED_order_list.php?cell=";
+    public static final String FM_ORDER_LIST_URL = MAIN_URL + "/FM_order_list.php?cell=";
 
 
     public static final String USER_PROFILE_URL = MAIN_URL + "/android/user_profile.php?cell=";
