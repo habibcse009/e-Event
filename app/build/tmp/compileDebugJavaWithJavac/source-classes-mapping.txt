@@ -57,6 +57,14 @@ com/project/eevent/ConventionHall/Profile/ProfileChActivity.java
  com.project.eevent.ConventionHall.Profile.ProfileChActivity$3
 com/project/eevent/EventDecorator/Product/ProductDescriptionEDActivity.java
  com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity
+ com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity$1
+ com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity$2
+ com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity$3
+ com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity$3$1
+ com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity$3$2
+ com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity$4
+ com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity$5
+ com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity$6
 com/project/eevent/EventDecorator/EdMainActivity.java
  com.project.eevent.EventDecorator.EdMainActivity
  com.project.eevent.EventDecorator.EdMainActivity$1
@@ -401,6 +409,14 @@ com/project/eevent/remote/ApiInterface.java
  com.project.eevent.remote.ApiInterface
 com/project/eevent/FoodManagement/Product/ProductDescriptionFMActivity.java
  com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity
+ com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity$1
+ com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity$2
+ com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity$3
+ com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity$3$1
+ com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity$3$2
+ com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity$4
+ com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity$5
+ com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity$6
 com/project/eevent/EventDecorator/Order/OrderListEDActivity.java
  com.project.eevent.EventDecorator.Order.OrderListEDActivity
  com.project.eevent.EventDecorator.Order.OrderListEDActivity$1
