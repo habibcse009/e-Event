@@ -362,6 +362,12 @@ com/project/eevent/Photographer/Product/model/ProductPhotographer.java
  com.project.eevent.Photographer.Product.model.ProductPhotographer
 com/project/eevent/EventDecorator/Product/OrderEDActivity.java
  com.project.eevent.EventDecorator.Product.OrderEDActivity
+ com.project.eevent.EventDecorator.Product.OrderEDActivity$1
+ com.project.eevent.EventDecorator.Product.OrderEDActivity$2
+ com.project.eevent.EventDecorator.Product.OrderEDActivity$3
+ com.project.eevent.EventDecorator.Product.OrderEDActivity$4
+ com.project.eevent.EventDecorator.Product.OrderEDActivity$5
+ com.project.eevent.EventDecorator.Product.OrderEDActivity$6
 com/project/eevent/FoodManagement/Product/model/ProductUploadFM.java
  com.project.eevent.FoodManagement.Product.model.ProductUploadFM
 com/project/eevent/FoodManagement/Profile/ProfileFmActivity.java
@@ -467,6 +473,12 @@ com/project/eevent/Customer/Profile/EditProfileCusActivity.java
  com.project.eevent.Customer.Profile.EditProfileCusActivity$6
 com/project/eevent/FoodManagement/Product/OrderFMActivity.java
  com.project.eevent.FoodManagement.Product.OrderFMActivity
+ com.project.eevent.FoodManagement.Product.OrderFMActivity$1
+ com.project.eevent.FoodManagement.Product.OrderFMActivity$2
+ com.project.eevent.FoodManagement.Product.OrderFMActivity$3
+ com.project.eevent.FoodManagement.Product.OrderFMActivity$4
+ com.project.eevent.FoodManagement.Product.OrderFMActivity$5
+ com.project.eevent.FoodManagement.Product.OrderFMActivity$6
 com/project/eevent/ContactUsActivity.java
  com.project.eevent.ContactUsActivity
  com.project.eevent.ContactUsActivity$1
