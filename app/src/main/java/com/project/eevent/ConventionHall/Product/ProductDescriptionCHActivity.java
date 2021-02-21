@@ -48,7 +48,7 @@ public class ProductDescriptionCHActivity extends AppCompatActivity {
 
         getSupportActionBar().setHomeButtonEnabled(true); //for back button
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);//for back button
-        getSupportActionBar().setTitle("Product Details");
+        getSupportActionBar().setTitle("Package Details");
 
         imgProduct = findViewById(R.id.img_productDesCH);
         txtName = findViewById(R.id.txt_product_nameCH);

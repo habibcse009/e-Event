@@ -48,7 +48,7 @@ public class ProductDescriptionEDActivity extends AppCompatActivity {
         setContentView(R.layout.activity_product_description_e_d);
         getSupportActionBar().setHomeButtonEnabled(true); //for back button
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);//for back button
-        getSupportActionBar().setTitle("Product Details");
+        getSupportActionBar().setTitle("Package Details");
 
         imgProduct = findViewById(R.id.img_productDesED_proDetails);
         txtName = findViewById(R.id.txt_product_nameED_proDetails);

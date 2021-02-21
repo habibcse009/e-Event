@@ -48,7 +48,7 @@ public class ProductDescriptionFMActivity extends AppCompatActivity {
         setContentView(R.layout.activity_product_description_f_m);
         getSupportActionBar().setHomeButtonEnabled(true); //for back button
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);//for back button
-        getSupportActionBar().setTitle("Product Details");
+        getSupportActionBar().setTitle("Package Details");
 
         imgProduct = findViewById(R.id.img_productDesFM_proDetails);
         txtName = findViewById(R.id.txt_product_nameFM_proDetails);
