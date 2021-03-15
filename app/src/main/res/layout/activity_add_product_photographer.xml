@@ -75,7 +75,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
                 android:padding="5dp"
-                android:text="Package Quantity (How many time it active)"
+                android:text="Package Duration (How many time it active)"
 
                 android:textColor="#FFF" />
 
@@ -88,7 +88,7 @@
                 android:layout_marginRight="22dp"
                 android:layout_marginBottom="5dp"
                 android:background="@drawable/round_border"
-                android:hint="Quantity in Date"
+                android:hint="Duration in Date"
                 android:inputType="number"
 
                 android:padding="16dp"
