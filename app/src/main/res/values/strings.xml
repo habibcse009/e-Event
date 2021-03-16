@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">eEvent</string>
     <string name="copy_right" translatable="false">Copyrights © %1$d eEvent</string>
-
+    <string name="otp_code"> Please enter OTP code here</string>
+    <string name="otp_text"> Please enter OTP verification code sent to your mobile via SMS</string>
+    <string name="otp_verification"> OTP VERIFICATION</string>
+    <string name="otp_submit">VERIFY &amp; CONTINUE</string>
 </resources>

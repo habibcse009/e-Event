@@ -104,7 +104,7 @@
     <orderEntry type="library" name="Gradle: com.romainpiel.shimmer:library:1.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.github.sd6352051:NiftyDialogEffects:v1.0.3@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.tt:whorlviewlibrary:1.0.3@aar" level="project" />
-    <orderEntry type="library" name="Gradle: pl.droidsonroids.gif:android-gif-drawable:1.2.22@aar" level="project" />
+    <orderEntry type="library" name="Gradle: pl.droidsonroids.gif:android-gif-drawable:1.2.23@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.github.medyo:android-about-page:1.2.5@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.github.jrvansuita:MaterialAbout:0.2.4@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
