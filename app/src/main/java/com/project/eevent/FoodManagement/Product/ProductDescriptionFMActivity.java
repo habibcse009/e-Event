@@ -87,7 +87,7 @@ public class ProductDescriptionFMActivity extends AppCompatActivity {
         txtPrice.setText(Constant.KEY_CURRENCY + price + "/Package");
         txtDescription.setText(description);
         txtCategory.setText("Package Type : " + category);
-        txtQuantity.setText("Package Quantity : " + quantity + " Days");
+        txtQuantity.setText("Package Duration : " + quantity + " Days");
 
         Glide.with(ProductDescriptionFMActivity.this)
                 .load(url)

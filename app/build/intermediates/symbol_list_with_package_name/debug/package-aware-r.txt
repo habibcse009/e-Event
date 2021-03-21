@@ -1722,6 +1722,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable dialog_bg
+drawable edittext_bg
 drawable gradiant
 drawable ic_about_app
 drawable ic_about_us
@@ -1773,6 +1774,7 @@ drawable ic_launcher_foreground
 drawable ic_loading
 drawable ic_location
 drawable ic_lock
+drawable ic_lock_red
 drawable ic_log_out
 drawable ic_logout
 drawable ic_logout_two
@@ -2101,6 +2103,9 @@ id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
 id dialog_button
+id dialog_input
+id dialog_input2
+id dialog_title
 id dimensions
 id direct
 id disableHome
@@ -2127,6 +2132,7 @@ id etx_bkash_txtIDCH
 id etx_bkash_txtIDED_order
 id etx_bkash_txtIDFM_order
 id etx_bkash_txtIDPhotographer
+id etx_otp_write
 id etxt_CH_categoryProduct
 id etxt_CH_descriptionProduct
 id etxt_CH_priceProduct
@@ -2619,6 +2625,7 @@ id txt_quantityFM_proDetails
 id txt_quantityPhotographer
 id txt_sizePhotographer
 id txt_status
+id txt_submit_OTP
 id txt_submit_orderCH
 id txt_submit_orderED_order
 id txt_submit_orderFM_order
@@ -2758,6 +2765,7 @@ layout activity_fm_main
 layout activity_image_select
 layout activity_login
 layout activity_main_order_list
+layout activity_number_verification
 layout activity_order_c_h
 layout activity_order_details_c_h
 layout activity_order_details_e_d
@@ -2802,7 +2810,9 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout dialog_input
 layout dialog_layout
+layout dialog_otp_input
 layout ed_list_item
 layout fm_list_item
 layout layout_dialog
@@ -3030,6 +3040,10 @@ string mtrl_picker_toggle_to_calendar_input_mode
 string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
+string otp_code
+string otp_submit
+string otp_text
+string otp_verification
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through

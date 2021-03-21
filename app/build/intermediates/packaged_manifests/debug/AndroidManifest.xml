@@ -9,8 +9,16 @@
         android:targetSdkVersion="30" />
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
 
     <application
         android:allowBackup="true"
@@ -24,6 +32,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.EEvent"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.eevent.NumberVerificationActivity" />
         <activity android:name="com.project.eevent.FoodManagement.Product.ProductDescriptionFMActivity" />
         <activity android:name="com.project.eevent.EventDecorator.Product.ProductDescriptionEDActivity" />
         <activity android:name="com.project.eevent.FoodManagement.Product.OrderFMActivity" />
@@ -88,6 +97,16 @@
             </intent-filter>
         </activity>
 
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.project.eevent.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
         <uses-library
             android:name="org.apache.http.legacy"
             android:required="false" />
@@ -98,16 +117,6 @@
         <activity
             android:name="in.mayanknagwanshi.imagepicker.ImageSelectActivity"
             android:theme="@style/Theme.AppCompat.Light.Dialog" />
-
-        <provider
-            android:name="androidx.core.content.FileProvider"
-            android:authorities="com.project.eevent.provider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/provider_paths" />
-        </provider>
     </application>
 
 </manifest>
